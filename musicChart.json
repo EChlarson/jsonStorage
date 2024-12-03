@@ -1,1 +1,160 @@
-
+{
+   "topSongsByYear": {
+      "2024": [
+         { "rank": 1, "title": "Espresso", "artist": "Sabrina Carpenter" },
+         { "rank": 2, "title": "Not Like Us", "artist": "Kendrick Lamar" },
+         { "rank": 3, "title": "Good Luck, Babe!", "artist": "Chappell Roan" },
+         { "rank": 4, "title": "Texas Hold ‘Em", "artist": "Beyoncé" },
+         { "rank": 5, "title": "Lunch", "artist": "Billie Eilish" },
+         { "rank": 6, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey" },
+         { "rank": 7, "title": "We Can’t Be Friends (Wait for Your Love)", "artist": "Ariana Grande" },
+         { "rank": 8, "title": "Million Dollar Baby", "artist": "Tommy Richman" },
+         { "rank": 9, "title": "Like That", "artist": "Future, Metro Boomin & Kendrick Lamar" },
+         { "rank": 10, "title": "Nasty", "artist": "Tinashe" }
+      ],
+      "2023": [
+         { "rank": 1, "title": "Flowers", "artist": "Miley Cyrus" },
+         { "rank": 2, "title": "Last Night", "artist": "Morgan Wallen" },
+         { "rank": 3, "title": "Anti-Hero", "artist": "Taylor Swift" },
+         { "rank": 4, "title": "Vampire", "artist": "Olivia Rodrigo" },
+         { "rank": 5, "title": "Paint The Town Red", "artist": "Doja Cat" },
+         { "rank": 6, "title": "Seven", "artist": "Jung Kook featuring Latto" },
+         { "rank": 7, "title": "Cruel Summer", "artist": "Taylor Swift" },
+         { "rank": 8, "title": "Rich Men North Of Richmond", "artist": "Oliver Anthony Music" },
+         { "rank": 9, "title": "I Remember Everything", "artist": "Zach Bryan featuring Kacey Musgraves" },
+         { "rank": 10, "title": "Slime You Out", "artist": "Drake featuring SZA" }
+      ],
+      "2022": [
+         { "rank": 1, "title": "As It Was", "artist": "Harry Styles" },
+         { "rank": 2, "title": "Heat Waves", "artist": "Glass Animals" },
+         { "rank": 3, "title": "Bad Habit", "artist": "Steve Lacy" },
+         { "rank": 4, "title": "Anti-Hero", "artist": "Taylor Swift" },
+         { "rank": 5, "title": "About Damn Time", "artist": "Lizzo" },
+         { "rank": 6, "title": "First Class", "artist": "Jack Harlow" },
+         { "rank": 7, "title": "Unholy", "artist": "Sam Smith and Kim Petras" },
+         { "rank": 8, "title": "Break My Soul", "artist": "Beyoncé" },
+         { "rank": 9, "title": "Super Freaky Girl", "artist": "Nicki Minaj" },
+         { "rank": 10, "title": "Sunroof", "artist": "Nicky Youre and Dazy" }
+      ],
+      "2021": [
+         { "rank": 1, "title": "Levitating", "artist": "Dua Lipa featuring DaBaby" },
+         { "rank": 2, "title": "Save Your Tears", "artist": "The Weeknd and Ariana Grande" },
+         { "rank": 3, "title": "Blinding Lights", "artist": "The Weeknd" },
+         { "rank": 4, "title": "Butter", "artist": "BTS" },
+         { "rank": 5, "title": "Stay", "artist": "The Kid LAROI and Justin Bieber" },
+         { "rank": 6, "title": "Good 4 U", "artist": "Olivia Rodrigo" },
+         { "rank": 7, "title": "Peaches", "artist": "Justin Bieber featuring Daniel Caesar and Giveon" },
+         { "rank": 8, "title": "Montero (Call Me by Your Name)", "artist": "Lil Nas X" },
+         { "rank": 9, "title": "Kiss Me More", "artist": "Doja Cat featuring SZA" },
+         { "rank": 10, "title": "Drivers License", "artist": "Olivia Rodrigo" }
+      ],
+      "2020": [
+         { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
+         { "rank": 2, "title": "Circles", "artist": "Post Malone" },
+         { "rank": 3, "title": "The Box", "artist": "Roddy Ricch" },
+         { "rank": 4, "title": "Don't Start Now", "artist": "Dua Lipa" },
+         { "rank": 5, "title": "Rockstar", "artist": "DaBaby featuring Roddy Ricch" },
+         { "rank": 6, "title": "Adore You", "artist": "Harry Styles" },
+         { "rank": 7, "title": "Life Is Good", "artist": "Future featuring Drake" },
+         { "rank": 8, "title": "Memories", "artist": "Maroon 5" },
+         { "rank": 9, "title": "The Bones", "artist": "Maren Morris" },
+         { "rank": 10, "title": "Someone You Loved", "artist": "Lewis Capaldi" }
+      ],
+      "2019": [
+         { "rank": 1, "title": "Old Town Road", "artist": "Lil Nas X featuring Billy Ray Cyrus" },
+         { "rank": 2, "title": "Sunflower", "artist": "Post Malone and Swae Lee" },
+         { "rank": 3, "title": "Without Me", "artist": "Halsey" },
+         { "rank": 4, "title": "Bad Guy", "artist": "Billie Eilish" },
+         { "rank": 5, "title": "Wow.", "artist": "Post Malone" },
+         { "rank": 6, "title": "Happier", "artist": "Marshmello and Bastille" },
+         { "rank": 7, "title": "7 Rings", "artist": "Ariana Grande" },
+         { "rank": 8, "title": "Talk", "artist": "Khalid" },
+         { "rank": 9, "title": "Sicko Mode", "artist": "Travis Scott" },
+         { "rank": 10, "title": "Sucker", "artist": "Jonas Brothers" }
+      ],
+      "2018": [
+         { "rank": 1, "title": "God's Plan", "artist": "Drake" },
+         { "rank": 2, "title": "In My Feelings", "artist": "Drake" },
+         { "rank": 3, "title": "I Like It", "artist": "Cardi B, Bad Bunny & J Balvin" },
+         { "rank": 4, "title": "Sicko Mode", "artist": "Travis Scott" },
+         { "rank": 5, "title": "Thank U, Next", "artist": "Ariana Grande" },
+         { "rank": 6, "title": "Shallow", "artist": "Lady Gaga & Bradley Cooper" },
+         { "rank": 7, "title": "Happier", "artist": "Marshmello & Bastille" },
+         { "rank": 8, "title": "Better Now", "artist": "Post Malone" },
+         { "rank": 9, "title": "High Hopes", "artist": "Panic! At The Disco" },
+         { "rank": 10, "title": "All I Want for Christmas Is You", "artist": "Mariah Carey" }
+      ],
+      "2017": [
+         { "rank": 1, "title": "Shape of You", "artist": "Ed Sheeran" },
+         { "rank": 2, "title": "Despacito", "artist": "Luis Fonsi & Daddy Yankee ft. Justin Bieber" },
+         { "rank": 3, "title": "That's What I Like", "artist": "Bruno Mars" },
+         { "rank": 4, "title": "Humor Me", "artist": "Kendrick Lamar" },
+         { "rank": 5, "title": "Rockstar", "artist": "Post Malone ft. 21 Savage" },
+         { "rank": 6, "title": "Bad and Boujee", "artist": "Migos ft. Lil Uzi Vert" },
+         { "rank": 7, "title": "Something Just Like This", "artist": "The Chainsmokers & Coldplay" },
+         { "rank": 8, "title": "Humble.", "artist": "Kendrick Lamar" },
+         { "rank": 9, "title": "Look What You Made Me Do", "artist": "Taylor Swift" },
+         { "rank": 10, "title": "Believer", "artist": "Imagine Dragons" }
+      ],
+      "2016": [
+         { "rank": 1, "title": "Love Yourself", "artist": "Justin Bieber" },
+         { "rank": 2, "title": "Work", "artist": "Rihanna ft. Drake" },
+         { "rank": 3, "title": "Cheap Thrills", "artist": "Sia ft. Sean Paul" },
+         { "rank": 4, "title": "One Dance", "artist": "Drake ft. Wizkid & Kyla" },
+         { "rank": 5, "title": "Can't Stop the Feeling!", "artist": "Justin Timberlake" },
+         { "rank": 6, "title": "Closer", "artist": "The Chainsmokers ft. Halsey" },
+         { "rank": 7, "title": "This Is What You Came For", "artist": "Calvin Harris ft. Rihanna" },
+         { "rank": 8, "title": "Stressed Out", "artist": "Twenty One Pilots" },
+         { "rank": 9, "title": "Pillowtalk", "artist": "Zayn Malik" },
+         { "rank": 10, "title": "Don't Let Me Down", "artist": "The Chainsmokers ft. Daya" }
+      ],
+      "2015": [
+         { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars" },
+         { "rank": 2, "title": "Thinking Out Loud", "artist": "Ed Sheeran" },
+         { "rank": 3, "title": "See You Again", "artist": "Wiz Khalifa ft. Charlie Puth" },
+         { "rank": 4, "title": "Can't Feel My Face", "artist": "The Weeknd" },
+         { "rank": 5, "title": "Bad Blood", "artist": "Taylor Swift ft. Kendrick Lamar" },
+         { "rank": 6, "title": "Sugar", "artist": "Maroon 5" },
+         { "rank": 7, "title": "Hello", "artist": "Adele" },
+         { "rank": 8, "title": "Hotline Bling", "artist": "Drake" },
+         { "rank": 9, "title": "Trap Queen", "artist": "Fetty Wap" },
+         { "rank": 10, "title": "Sorry", "artist": "Justin Bieber" }
+      ],
+      "2014": [
+         { "rank": 1, "title": "Happy", "artist": "Pharrell Williams" },
+         { "rank": 2, "title": "Shake It Off", "artist": "Taylor Swift" },
+         { "rank": 3, "title": "All About That Bass", "artist": "Meghan Trainor" },
+         { "rank": 4, "title": "Stay With Me", "artist": "Sam Smith" },
+         { "rank": 5, "title": "Fancy", "artist": "Iggy Azalea ft. Charli XCX" },
+         { "rank": 6, "title": "Rude", "artist": "MAGIC!" },
+         { "rank": 7, "title": "Problem", "artist": "Ariana Grande ft. Iggy Azalea" },
+         { "rank": 8, "title": "Bang Bang", "artist": "Jessie J, Ariana Grande & Nicki Minaj" },
+         { "rank": 9, "title": "Turn Down for What", "artist": "DJ Snake & Lil Jon" },
+         { "rank": 10, "title": "Counting Stars", "artist": "OneRepublic" }
+      ],
+      "2013": [
+         { "rank": 1, "title": "Blurred Lines", "artist": "Robin Thicke ft. T.I. & Pharrell" },
+         { "rank": 2, "title": "Get Lucky", "artist": "Daft Punk ft. Pharrell Williams" },
+         { "rank": 3, "title": "Royals", "artist": "Lorde" },
+         { "rank": 4, "title": "Wrecking Ball", "artist": "Miley Cyrus" },
+         { "rank": 5, "title": "Locked Out of Heaven", "artist": "Bruno Mars" },
+         { "rank": 6, "title": "We Can't Stop", "artist": "Miley Cyrus" },
+         { "rank": 7, "title": "Thrift Shop", "artist": "Macklemore & Ryan Lewis ft. Wanz" },
+         { "rank": 8, "title": "Radioactive", "artist": "Imagine Dragons" },
+         { "rank": 9, "title": "Can't Hold Us", "artist": "Macklemore & Ryan Lewis ft. Ray Dalton" },
+         { "rank": 10, "title": "Just Give Me a Reason", "artist": "P!nk ft. Nate Ruess" }
+      ],
+      "2012": [
+         { "rank": 1, "title": "Somebody That I Used to Know", "artist": "Gotye ft. Kimbra" },
+         { "rank": 2, "title": "Call Me Maybe", "artist": "Carly Rae Jepsen" },
+         { "rank": 3, "title": "We Are Young", "artist": "Fun. ft. Janelle Monáe" },
+         { "rank": 4, "title": "Gangnam Style", "artist": "PSY" },
+         { "rank": 5, "title": "Starships", "artist": "Nicki Minaj" },
+         { "rank": 6, "title": "Whistle", "artist": "Flo Rida" },
+         { "rank": 7, "title": "Glad You Came", "artist": "The Wanted" },
+         { "rank": 8, "title": "Titanium", "artist": "David Guetta ft. Sia" },
+         { "rank": 9, "title": "The One That Got Away", "artist": "Katy Perry" },
+         { "rank": 10, "title": "What Makes You Beautiful", "artist": "One Direction" }
+       ]
+   }
+}
