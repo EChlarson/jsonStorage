@@ -1,6 +1,4 @@
-{
-   "topSongsByYear": {
-      "2024": [
+{      "2024": [
          { "rank": 1, "title": "Espresso", "artist": "Sabrina Carpenter" },
          { "rank": 2, "title": "Not Like Us", "artist": "Kendrick Lamar" },
          { "rank": 3, "title": "Good Luck, Babe!", "artist": "Chappell Roan" },
@@ -156,5 +154,4 @@
          { "rank": 9, "title": "The One That Got Away", "artist": "Katy Perry" },
          { "rank": 10, "title": "What Makes You Beautiful", "artist": "One Direction" }
        ]
-   }
 }
