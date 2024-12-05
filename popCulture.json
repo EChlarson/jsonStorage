@@ -1507,6 +1507,556 @@
             "event": "The Death of John Lennon",
             "description": "John Lennon, former member of The Beatles, was tragically assassinated in New York City. His death shocked the world and marked the end of an era for music."
          }
+      ],
+      "1979": [
+         {
+           "date": "July 1, 1979",
+           "event": "Sony Walkman release",
+           "description": "Sony launched the Walkman, revolutionizing personal music listening."
+         },
+         {
+           "date": "September 7, 1979",
+           "event": "ESPN launched",
+           "description": "The first 24-hour sports network began broadcasting."
+         },
+         {
+           "date": "April 1, 1979",
+           "event": "Nickelodeon launched",
+           "description": "Nickelodeon, a children's television network, debuted."
+         }
+      ],
+      "1978": [
+         {
+           "date": "June 16, 1978",
+           "event": "Grease release",
+           "description": "The musical film Grease became a cultural sensation."
+         },
+         {
+           "date": "December 15, 1978",
+           "event": "Superman film release",
+           "description": "Superman, starring Christopher Reeve, premiered and defined the superhero film genre."
+         }
+      ],
+      "1977": [
+         {
+           "date": "May 25, 1977",
+           "event": "Star Wars release",
+           "description": "George Lucas's Star Wars premiered, becoming a worldwide phenomenon."
+         },
+         {
+           "date": "January 23-30, 1977",
+           "event": "Roots miniseries aired",
+           "description": "The miniseries Roots captivated audiences and brought attention to African American history."
+         },
+         {
+           "date": "August 16, 1977",
+           "event": "Elvis Presley death",
+           "description": "Elvis Presley, the King of Rock and Roll, passed away at Graceland."
+         }
+      ],
+      "1976": [
+         {
+           "date": "November 21, 1976",
+           "event": "Rocky release",
+           "description": "The underdog boxing film Rocky premiered and went on to win Best Picture."
+         },
+         {
+           "date": "July 4, 1976",
+           "event": "U.S. Bicentennial",
+           "description": "The United States celebrated its 200th anniversary with nationwide events."
+         }
+      ],
+      "1975": [
+         {
+           "date": "November 10, 1975",
+           "event": "Bohemian Rhapsody release",
+           "description": "Queen released the iconic single 'Bohemian Rhapsody,' pushing musical boundaries."
+         },
+         {
+           "date": "June 20, 1975",
+           "event": "Jaws release",
+           "description": "Jaws became the first major summer blockbuster, changing Hollywood marketing strategies."
+         },
+         {
+           "date": "October 11, 1975",
+           "event": "Saturday Night Live premiere",
+           "description": "The comedy sketch show SNL debuted, launching the careers of many comedians."
+         }
+      ],
+      "1974": [
+         {
+           "date": "August 9, 1974",
+           "event": "Nixon resignation",
+           "description": "President Richard Nixon resigned following the Watergate scandal."
+         },
+         {
+           "date": "December 12, 1974",
+           "event": "The Godfather Part II release",
+           "description": "The sequel to The Godfather premiered, earning critical acclaim and Best Picture."
+         }
+      ],
+      "1973": [
+         {
+           "date": "March 1, 1973",
+           "event": "Dark Side of the Moon release",
+           "description": "Pink Floyd released their landmark album The Dark Side of the Moon."
+         },
+         {
+           "date": "December 26, 1973",
+           "event": "The Exorcist release",
+           "description": "The horror film shocked audiences and became a cultural phenomenon."
+         }
+      ],
+      "1972": [
+         {
+           "date": "March 15, 1972",
+           "event": "The Godfather release",
+           "description": "Francis Ford Coppola’s epic mafia film debuted to critical and commercial success."
+         },
+         {
+           "date": "September 17, 1972",
+           "event": "M*A*S*H premiere",
+           "description": "The television series M*A*S*H premiered, becoming one of the most beloved TV shows."
+         }
+      ],
+      "1971": [
+         {
+           "date": "September 13, 1971",
+           "event": "John Lennon released Imagine",
+           "description": "John Lennon released the iconic song 'Imagine,' calling for peace and unity."
+         },
+         {
+           "date": "September 17, 1971",
+           "event": "All in the Family premiere",
+           "description": "The sitcom All in the Family debuted, addressing controversial social issues."
+         }
+      ],
+      "1970": [
+         {
+           "date": "April 22, 1970",
+           "event": "First Earth Day",
+           "description": "The first Earth Day was celebrated to raise environmental awareness."
+         },
+         {
+           "date": "April 10, 1970",
+           "event": "The Beatles breakup",
+           "description": "Paul McCartney announced his departure from The Beatles, marking the band's end."
+         }
+      ],
+      "1969": [
+         {
+           "date": "July 20, 1969",
+           "event": "Moon Landing",
+           "description": "Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon."
+         },
+         {
+           "date": "August 15-18, 1969",
+           "event": "Woodstock Festival",
+           "description": "The Woodstock Music Festival became a defining moment of the counterculture movement."
+         }
+      ],
+      "1968": [
+         {
+           "date": "April 4, 1968",
+           "event": "Martin Luther King Jr. assassination",
+           "description": "Civil rights leader Martin Luther King Jr. was assassinated in Memphis, Tennessee."
+         },
+         {
+           "date": "June 28, 1968",
+           "event": "The Beatles release 'Hey Jude'",
+           "description": "The Beatles released 'Hey Jude,' one of their most iconic songs."
+         }
+      ],
+      "1967": [
+         {
+           "date": "June 1, 1967",
+           "event": "Sgt. Pepper's Lonely Hearts Club Band release",
+           "description": "The Beatles released their groundbreaking album Sgt. Pepper's Lonely Hearts Club Band."
+         },
+         {
+           "date": "Summer 1967",
+           "event": "Summer of Love",
+           "description": "The Summer of Love highlighted the peak of the hippie movement in San Francisco."
+         }
+      ],
+      "1966": [
+         {
+           "date": "September 8, 1966",
+           "event": "Star Trek premiere",
+           "description": "The first episode of Star Trek aired, beginning a legendary science fiction franchise."
+         },
+         {
+           "date": "July 29, 1966",
+           "event": "Bob Dylan motorcycle accident",
+           "description": "Bob Dylan's motorcycle accident led him to take a hiatus from public life."
+         }
+      ],
+      "1965": [
+         {
+           "date": "February 21, 1965",
+           "event": "Malcolm X assassination",
+           "description": "Civil rights leader Malcolm X was assassinated in New York City."
+         },
+         {
+           "date": "August 15, 1965",
+           "event": "The Beatles perform at Shea Stadium",
+           "description": "The Beatles performed a groundbreaking concert at Shea Stadium, marking a milestone in live music."
+         }
+      ],
+      "1964": [
+         {
+           "date": "February 9, 1964",
+           "event": "The Beatles on The Ed Sullivan Show",
+           "description": "The Beatles made their first appearance on The Ed Sullivan Show, sparking Beatlemania in the U.S."
+         },
+         {
+           "date": "July 2, 1964",
+           "event": "Civil Rights Act of 1964",
+           "description": "President Lyndon B. Johnson signed the Civil Rights Act into law, prohibiting discrimination."
+         }
+      ],
+      "1963": [
+         {
+           "date": "November 22, 1963",
+           "event": "John F. Kennedy assassination",
+           "description": "President John F. Kennedy was assassinated in Dallas, Texas."
+         },
+         {
+           "date": "August 28, 1963",
+           "event": "Martin Luther King Jr.'s 'I Have a Dream' speech",
+           "description": "Martin Luther King Jr. delivered his iconic speech during the March on Washington."
+         }
+      ],
+      "1962": [
+         {
+           "date": "October 1, 1962",
+           "event": "James Meredith integrates University of Mississippi",
+           "description": "James Meredith became the first African American student to enroll at the University of Mississippi."
+         },
+         {
+           "date": "October 5, 1962",
+           "event": "Dr. No release",
+           "description": "The first James Bond film, Dr. No, premiered, launching the iconic spy franchise."
+         }
+      ],
+      "1961": [
+         {
+           "date": "January 20, 1961",
+           "event": "John F. Kennedy inaugurated",
+           "description": "John F. Kennedy was sworn in as the 35th President of the United States."
+         },
+         {
+           "date": "April 12, 1961",
+           "event": "Yuri Gagarin's spaceflight",
+           "description": "Yuri Gagarin became the first human to journey into space."
+         }
+      ],
+      "1960": [
+         {
+           "date": "May 16, 1960",
+           "event": "Laser invented",
+           "description": "The first working laser was demonstrated by physicist Theodore Maiman."
+         },
+         {
+           "date": "November 8, 1960",
+           "event": "John F. Kennedy elected president",
+           "description": "John F. Kennedy won the U.S. presidential election, becoming the youngest elected president."
+         }
+      ],
+      "1959": [
+         {
+           "date": "April 9, 1959",
+           "event": "NASA introduces Mercury Seven astronauts",
+           "description": "NASA unveiled its first group of astronauts, who became national heroes and symbols of the space race."
+         },
+         {
+           "date": "July 4, 1959",
+           "event": "Hawaii becomes the 50th U.S. state",
+           "description": "Hawaii was officially admitted into the United States, completing the union."
+         }
+      ],
+      "1958": [
+         {
+           "date": "October 1, 1958",
+           "event": "NASA is established",
+           "description": "The National Aeronautics and Space Administration (NASA) was founded, initiating the modern space program."
+         },
+         {
+           "date": "September 12, 1958",
+           "event": "The integrated circuit is invented",
+           "description": "Jack Kilby created the first integrated circuit, laying the foundation for modern electronics."
+         }
+      ],
+      "1957": [
+         {
+           "date": "October 4, 1957",
+           "event": "Sputnik 1 launched",
+           "description": "The Soviet Union launched Sputnik 1, the first artificial satellite, marking the start of the space race."
+         },
+         {
+           "date": "September 9, 1957",
+           "event": "Civil Rights Act of 1957 signed",
+           "description": "President Eisenhower signed the Civil Rights Act of 1957, the first civil rights legislation since Reconstruction."
+         }
+      ],
+      "1956": [
+         {
+           "date": "October 23, 1956",
+           "event": "Hungarian Revolution begins",
+           "description": "The Hungarian people revolted against Soviet control, inspiring worldwide attention."
+         },
+         {
+           "date": "March 10, 1956",
+           "event": "Elvis Presley releases 'Heartbreak Hotel'",
+           "description": "Elvis Presley released his first No. 1 hit, solidifying his status as the 'King of Rock and Roll.'"
+         }
+      ],
+      "1955": [
+         {
+           "date": "December 1, 1955",
+           "event": "Rosa Parks' arrest sparks Montgomery Bus Boycott",
+           "description": "Rosa Parks' refusal to give up her seat on a bus led to a year-long bus boycott in Montgomery, Alabama."
+         },
+         {
+           "date": "November 5, 1955",
+           "event": "Disneyland opens",
+           "description": "Disneyland opened in Anaheim, California, becoming a landmark in entertainment history."
+         }
+      ],
+      "1954": [
+         {
+           "date": "May 17, 1954",
+           "event": "Brown v. Board of Education decision",
+           "description": "The U.S. Supreme Court ruled that racial segregation in public schools was unconstitutional."
+         },
+         {
+           "date": "April 22, 1954",
+           "event": "First McDonald's franchise opens",
+           "description": "Ray Kroc opened the first franchised McDonald's restaurant, revolutionizing fast food."
+         }
+      ],
+      "1953": [
+         {
+           "date": "June 2, 1953",
+           "event": "Coronation of Queen Elizabeth II",
+           "description": "Elizabeth II was crowned queen of the United Kingdom, ushering in a new era for the monarchy."
+         },
+         {
+           "date": "April 12, 1953",
+           "event": "Discovery of DNA structure",
+           "description": "James Watson and Francis Crick announced the discovery of the DNA double helix structure."
+         }
+      ],
+      "1952": [
+         {
+           "date": "November 1, 1952",
+           "event": "First hydrogen bomb test",
+           "description": "The United States successfully detonated the first hydrogen bomb in the Pacific Ocean."
+         },
+         {
+           "date": "August 29, 1952",
+           "event": "John Cage's '4'33\"' premiered",
+           "description": "John Cage's experimental silent composition '4'33\"' was first performed."
+         }
+      ],
+      "1951": [
+         {
+           "date": "September 4, 1951",
+           "event": "First live coast-to-coast TV broadcast",
+           "description": "President Truman's speech at the Japanese Peace Treaty Conference was broadcast live across the U.S."
+         },
+         {
+           "date": "March 29, 1951",
+           "event": "Julius and Ethel Rosenberg convicted",
+           "description": "The Rosenbergs were found guilty of espionage for passing atomic secrets to the Soviet Union."
+         }
+      ],
+      "1950": [
+         {
+           "date": "June 25, 1950",
+           "event": "Korean War begins",
+           "description": "North Korean forces invaded South Korea, starting the Korean War."
+         },
+         {
+           "date": "October 2, 1950",
+           "event": "Peanuts comic strip debuts",
+           "description": "Charles Schulz's iconic comic strip Peanuts was published for the first time."
+         }
+      ],
+      "1949": [
+         {
+           "date": "January 11",
+           "event": "First Recorded Snowfall in Los Angeles",
+           "description": "Los Angeles experienced its first and only recorded snowfall, a rare weather phenomenon for the city."
+         },
+         {
+           "date": "June 24",
+           "event": "Hopalong Cassidy Debuts on TV",
+           "description": "'Hopalong Cassidy,' a Western TV series, became the first of its kind to air on a major network, marking a milestone in television history."
+         },
+         {
+           "date": "June 8",
+           "event": "Publication of George Orwell's 1984",
+           "description": "George Orwell's dystopian novel '1984' was published, offering a grim vision of a totalitarian future that influenced pop culture and literature for decades."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Introduction of 45 RPM Records",
+           "description": "RCA introduced the 45 RPM record, which transformed the music industry with its portability and focus on single tracks."
+         }
+      ],
+      "1948": [
+         {
+           "date": "November 20",
+           "event": "First Polaroid Camera Released",
+           "description": "The Polaroid Model 95, the first instant camera, was launched, allowing users to develop photos immediately."
+         },
+         {
+           "date": "May 14",
+           "event": "State of Israel Declared",
+           "description": "The establishment of Israel was declared, profoundly impacting global politics and culture."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Popularity of 'Tupperware Parties'",
+           "description": "Tupperware began gaining popularity in American households through home demonstration parties, changing consumer marketing."
+         }
+      ],
+      "1947": [
+         {
+           "date": "July 8",
+           "event": "Roswell UFO Incident",
+           "description": "The Roswell incident sparked widespread interest in extraterrestrial life when reports of a 'flying disc' crash emerged."
+         },
+         {
+           "date": "October 14",
+           "event": "Chuck Yeager Breaks the Sound Barrier",
+           "description": "Chuck Yeager piloted the Bell X-1 to break the sound barrier, becoming the first human to achieve supersonic flight."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Introduction of Dior’s 'New Look'",
+           "description": "Christian Dior's 'New Look' revolutionized post-war fashion with its focus on feminine, full-skirted silhouettes."
+         }
+      ],
+      "1946": [
+         {
+           "date": "January 10",
+           "event": "First General Assembly of the United Nations",
+           "description": "The United Nations held its first General Assembly meeting, marking the start of a new era in international diplomacy."
+         },
+         {
+           "date": "December 31",
+           "event": "Launch of the Bikini",
+           "description": "Louis Réard introduced the bikini in France, creating a fashion and cultural sensation."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Baby Boom Peaks",
+           "description": "The post-war baby boom began to reshape demographics and family life in the United States and beyond."
+         }
+      ],
+      "1945": [
+         {
+           "date": "August 15",
+           "event": "End of World War II",
+           "description": "World War II ended with Japan’s surrender, impacting culture, politics, and global relations for generations."
+         },
+         {
+           "date": "May 8",
+           "event": "Victory in Europe (VE) Day",
+           "description": "VE Day celebrated the defeat of Nazi Germany, leading to widespread celebrations and reflection."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Rise of Film Noir",
+           "description": "Film noir surged in popularity, reflecting post-war anxieties through moody, shadowy cinematography and themes of moral ambiguity."
+         }
+      ],
+      "1944": [
+         {
+           "date": "June 6",
+           "event": "D-Day Landings",
+           "description": "Allied forces stormed the beaches of Normandy in one of the largest amphibious military operations in history, marking a turning point in World War II."
+         },
+         {
+           "date": "June 22",
+           "event": "G.I. Bill Signed into Law",
+           "description": "President Franklin D. Roosevelt signed the Servicemen's Readjustment Act, offering benefits to returning World War II veterans, including funding for education and housing."
+         },
+         {
+           "date": "November 8",
+           "event": "Release of 'Double Indemnity'",
+           "description": "Billy Wilder’s 'Double Indemnity' premiered, becoming a quintessential film noir that influenced cinema for decades."
+         }
+      ],
+      "1943": [
+         {
+           "date": "January 14",
+           "event": "Casablanca Wins Hearts",
+           "description": "The film 'Casablanca' premiered widely in the United States, cementing its place as a Hollywood classic with timeless performances and themes of love and sacrifice."
+         },
+         {
+           "date": "July 25",
+           "event": "Fall of Mussolini",
+           "description": "Italian dictator Benito Mussolini was overthrown, marking a significant shift in World War II's European theater."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Rise of 'Rosie the Riveter'",
+           "description": "The 'We Can Do It!' poster and the character Rosie the Riveter became symbols of female empowerment and the wartime workforce in America."
+         }
+      ],
+      "1942": [
+         {
+           "date": "January 1",
+           "event": "Formation of the United Nations Declaration",
+           "description": "26 nations signed the Declaration of the United Nations, pledging cooperation in the fight against the Axis Powers."
+         },
+         {
+           "date": "August 28",
+           "event": "Launch of 'Bambi'",
+           "description": "Walt Disney’s animated film 'Bambi' premiered, capturing hearts with its emotional story and groundbreaking animation."
+         },
+         {
+           "date": "October 31",
+           "event": "Carole Lombard Dies in Plane Crash",
+           "description": "The beloved actress Carole Lombard tragically passed away in a plane crash, becoming an enduring Hollywood legend."
+         }
+      ],
+      "1941": [
+         {
+           "date": "December 7",
+           "event": "Attack on Pearl Harbor",
+           "description": "Japan’s surprise attack on Pearl Harbor drew the United States into World War II, reshaping global alliances and military strategy."
+         },
+         {
+           "date": "November 13",
+           "event": "Debut of 'Citizen Kane'",
+           "description": "Orson Welles' 'Citizen Kane' premiered, later hailed as one of the greatest films in cinematic history."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Introduction of Cheerios",
+           "description": "General Mills introduced Cheerios, a cereal that became a breakfast staple in households across America."
+         }
+      ],
+      "1940": [
+         {
+           "date": "May 10",
+           "event": "Winston Churchill Becomes Prime Minister",
+           "description": "Winston Churchill assumed the role of British Prime Minister, becoming a pivotal leader during World War II."
+         },
+         {
+           "date": "November 13",
+           "event": "Disney’s 'Fantasia' Premieres",
+           "description": "Walt Disney's experimental animated film 'Fantasia' was released, combining classical music with imaginative visuals."
+         },
+         {
+           "date": "Year-Round",
+           "event": "Debut of 'Tom and Jerry'",
+           "description": "Hanna-Barbera introduced 'Tom and Jerry,' a cartoon series that became a beloved classic worldwide."
+         }
       ]
    }
 }
