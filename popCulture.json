@@ -2165,177 +2165,332 @@
       ],
       "1949": [
          {
-           "date": "January 11",
-           "event": "First Recorded Snowfall in Los Angeles",
-           "description": "Los Angeles experienced its first and only recorded snowfall, a rare weather phenomenon for the city."
+            "date": "January 11",
+            "event": "First Recorded Snowfall in Los Angeles",
+            "description": "Los Angeles experienced its first and only recorded snowfall, a rare weather phenomenon that captured the attention of residents and made headlines.",
+            "type": "Weather",
+            "related_industries": ["Weather", "News"],
+            "social_mentions": "The snowfall was a rare sight for Angelenos, sparking excitement and awe as people took to the streets to witness the unusual event.",
+            "fun_fact": "Although snowfall in Los Angeles is incredibly rare, this event occurred due to a combination of cold air and moisture that is usually not found in the region.",
+            "hashtags": ["#SnowInLA", "#RareSnowfall", "#LosAngeles"]
          },
          {
-           "date": "June 24",
-           "event": "Hopalong Cassidy Debuts on TV",
-           "description": "'Hopalong Cassidy,' a Western TV series, became the first of its kind to air on a major network, marking a milestone in television history."
+            "date": "June 24",
+            "event": "Hopalong Cassidy Debuts on TV",
+            "description": "'Hopalong Cassidy,' a Western TV series, became the first of its kind to air on a major network, marking a milestone in television history and influencing the popularity of Westerns in television programming.",
+            "type": "Television",
+            "related_industries": ["Television", "Entertainment"],
+            "social_mentions": "The show's success helped solidify the Western genre's presence on TV, leading to numerous similar series in the following decades.",
+            "fun_fact": "William Boyd, who portrayed Hopalong Cassidy, became a beloved figure, and the character’s influence lasted well beyond the series itself, even leading to Hopalong Cassidy-themed merchandise.",
+            "hashtags": ["#HopalongCassidy", "#WesternTV", "#ClassicTelevision"]
          },
          {
-           "date": "June 8",
-           "event": "Publication of George Orwell's 1984",
-           "description": "George Orwell's dystopian novel '1984' was published, offering a grim vision of a totalitarian future that influenced pop culture and literature for decades."
+            "date": "June 8",
+            "event": "Publication of George Orwell's 1984",
+            "description": "George Orwell's dystopian novel '1984' was published, offering a grim vision of a totalitarian future that influenced pop culture and literature for decades, becoming a landmark in political fiction.",
+            "type": "Literature",
+            "related_industries": ["Literature", "Culture"],
+            "social_mentions": "'1984' introduced concepts such as 'Big Brother' and 'doublethink,' which have become part of everyday language and are still referenced in discussions about surveillance and political power.",
+            "fun_fact": "Orwell's '1984' was initially criticized for its bleak outlook, but it has since become a key reference in political discourse and is studied in schools worldwide.",
+            "hashtags": ["#1984", "#GeorgeOrwell", "#Dystopian"]
          },
          {
-           "date": "Year-Round",
-           "event": "Introduction of 45 RPM Records",
-           "description": "RCA introduced the 45 RPM record, which transformed the music industry with its portability and focus on single tracks."
+            "date": "Year-Round",
+            "event": "Introduction of 45 RPM Records",
+            "description": "RCA introduced the 45 RPM record, which transformed the music industry by offering a more portable format with a focus on single tracks, making music more accessible to the masses.",
+            "type": "Music",
+            "related_industries": ["Music", "Technology"],
+            "social_mentions": "The 45 RPM record became a key format for singles, shaping the way music was distributed and enjoyed during the mid-20th century.",
+            "fun_fact": "The 45 RPM format became especially popular with jukeboxes and was a staple in the music industry for decades before the rise of CDs and digital downloads.",
+            "hashtags": ["#45RPM", "#VinylRecords", "#MusicHistory"]
          }
       ],
       "1948": [
          {
-           "date": "November 20",
-           "event": "First Polaroid Camera Released",
-           "description": "The Polaroid Model 95, the first instant camera, was launched, allowing users to develop photos immediately."
+            "date": "November 20",
+            "event": "First Polaroid Camera Released",
+            "description": "The Polaroid Model 95, the first instant camera, was launched, allowing users to develop photos immediately and revolutionizing photography.",
+            "type": "Technology",
+            "related_industries": ["Technology", "Photography"],
+            "social_mentions": "The release of the Polaroid camera introduced a new era in personal photography, making it easier and faster to capture and share moments.",
+            "fun_fact": "The Polaroid camera became a cultural icon, with its instant gratification appealing to both professional photographers and amateurs alike.",
+            "hashtags": ["#Polaroid", "#InstantPhotography", "#VintageCamera"]
          },
          {
-           "date": "May 14",
-           "event": "State of Israel Declared",
-           "description": "The establishment of Israel was declared, profoundly impacting global politics and culture."
+            "date": "May 14",
+            "event": "State of Israel Declared",
+            "description": "The establishment of Israel was declared, profoundly impacting global politics, shifting Middle Eastern dynamics, and influencing international relations for decades.",
+            "type": "Politics",
+            "related_industries": ["Politics", "International Relations"],
+            "social_mentions": "The creation of Israel sparked both celebration and controversy, leading to ongoing debates about sovereignty, territorial rights, and regional stability.",
+            "fun_fact": "The declaration of Israel's independence took place on the same day as the British mandate expired, marking a key moment in 20th-century history.",
+            "hashtags": ["#Israel", "#MiddleEast", "#Independence"]
          },
          {
-           "date": "Year-Round",
-           "event": "Popularity of 'Tupperware Parties'",
-           "description": "Tupperware began gaining popularity in American households through home demonstration parties, changing consumer marketing."
+            "date": "Year-Round",
+            "event": "Popularity of 'Tupperware Parties'",
+            "description": "Tupperware began gaining popularity in American households through home demonstration parties, changing consumer marketing by introducing direct selling and party-based sales models.",
+            "type": "Consumer Products",
+            "related_industries": ["Retail", "Marketing", "Home Goods"],
+            "social_mentions": "The Tupperware party became a cultural phenomenon, empowering women entrepreneurs and changing the way products were marketed in the post-war era.",
+            "fun_fact": "Tupperware parties became so popular that they helped Tupperware become a household name and led to the rise of direct sales as a significant industry.",
+            "hashtags": ["#Tupperware", "#DirectSales", "#HomeParties"]
          }
       ],
       "1947": [
          {
-           "date": "July 8",
-           "event": "Roswell UFO Incident",
-           "description": "The Roswell incident sparked widespread interest in extraterrestrial life when reports of a 'flying disc' crash emerged."
+            "date": "July 8",
+            "event": "Roswell UFO Incident",
+            "description": "The Roswell incident sparked widespread interest in extraterrestrial life when reports of a 'flying disc' crash emerged, fueling conspiracy theories and debates on government cover-ups.",
+            "type": "Unexplained Phenomena",
+            "related_industries": ["Media", "Conspiracy Theories"],
+            "social_mentions": "The incident remains one of the most famous UFO-related events in history, often referenced in popular culture and generating ongoing debate over its true nature.",
+            "fun_fact": "Despite the U.S. military later explaining the crash as a weather balloon, many still believe the incident involved an alien spacecraft.",
+            "hashtags": ["#Roswell", "#UFOs", "#Conspiracy"]
          },
          {
-           "date": "October 14",
-           "event": "Chuck Yeager Breaks the Sound Barrier",
-           "description": "Chuck Yeager piloted the Bell X-1 to break the sound barrier, becoming the first human to achieve supersonic flight."
+            "date": "October 14",
+            "event": "Chuck Yeager Breaks the Sound Barrier",
+            "description": "Chuck Yeager piloted the Bell X-1 to break the sound barrier, becoming the first human to achieve supersonic flight.",
+            "type": "Aviation",
+            "related_industries": ["Aviation", "Technology"],
+            "social_mentions": "This historic achievement marked a milestone in the history of flight and paved the way for future advancements in aviation and aerospace.",
+            "fun_fact": "Yeager's supersonic flight was achieved at a speed of Mach 1.06, approximately 700 miles per hour, over the Mojave Desert.",
+            "hashtags": ["#ChuckYeager", "#SoundBarrier", "#AviationHistory"]
          },
          {
-           "date": "Year-Round",
-           "event": "Introduction of Dior’s 'New Look'",
-           "description": "Christian Dior's 'New Look' revolutionized post-war fashion with its focus on feminine, full-skirted silhouettes."
+            "date": "Year-Round",
+            "event": "Introduction of Dior’s 'New Look'",
+            "description": "Christian Dior's 'New Look' revolutionized post-war fashion with its focus on feminine, full-skirted silhouettes.",
+            "type": "Fashion",
+            "related_industries": ["Fashion", "Retail"],
+            "social_mentions": "The 'New Look' quickly became a symbol of post-World War II optimism and a turning point in 20th-century fashion history.",
+            "fun_fact": "Dior’s 'New Look' was so influential that it reshaped global fashion standards, marking the end of the wartime restrictions on fabric usage.",
+            "hashtags": ["#NewLook", "#ChristianDior", "#FashionRevolution"]
          }
       ],
       "1946": [
          {
-           "date": "January 10",
-           "event": "First General Assembly of the United Nations",
-           "description": "The United Nations held its first General Assembly meeting, marking the start of a new era in international diplomacy."
+            "date": "January 10",
+            "event": "First General Assembly of the United Nations",
+            "description": "The United Nations held its first General Assembly meeting, marking the start of a new era in international diplomacy.",
+            "type": "International Relations",
+            "related_industries": ["Government", "International Relations"],
+            "social_mentions": "The establishment of the UN General Assembly paved the way for a new framework for international cooperation and conflict resolution.",
+            "fun_fact": "The first General Assembly meeting was attended by representatives from 51 nations, laying the groundwork for future global diplomacy.",
+            "hashtags": ["#UnitedNations", "#InternationalDiplomacy", "#GlobalCooperation"]
          },
          {
-           "date": "December 31",
-           "event": "Launch of the Bikini",
-           "description": "Louis Réard introduced the bikini in France, creating a fashion and cultural sensation."
+            "date": "December 31",
+            "event": "Launch of the Bikini",
+            "description": "Louis Réard introduced the bikini in France, creating a fashion and cultural sensation.",
+            "type": "Fashion",
+            "related_industries": ["Fashion", "Cultural Impact"],
+            "social_mentions": "The bikini revolutionized swimwear and became an iconic symbol of the 20th century, sparking debates over body image and societal norms.",
+            "fun_fact": "The bikini was initially considered scandalous, but over time, it became one of the most popular and enduring pieces of fashion.",
+            "hashtags": ["#Bikini", "#FashionHistory", "#CulturalIcon"]
          },
          {
-           "date": "Year-Round",
-           "event": "Baby Boom Peaks",
-           "description": "The post-war baby boom began to reshape demographics and family life in the United States and beyond."
+            "date": "Year-Round",
+            "event": "Baby Boom Peaks",
+            "description": "The post-war baby boom began to reshape demographics and family life in the United States and beyond.",
+            "type": "Society",
+            "related_industries": ["Demographics", "Family Life", "Society"],
+            "social_mentions": "The Baby Boom, fueled by economic prosperity and societal optimism, led to significant shifts in social structures and consumer culture.",
+            "fun_fact": "At its peak, the Baby Boom saw an average of 4 million births per year in the U.S., forever altering the nation's culture and economy.",
+            "hashtags": ["#BabyBoom", "#PostWarGeneration", "#FamilyLife"]
          }
       ],
       "1945": [
          {
-           "date": "August 15",
-           "event": "End of World War II",
-           "description": "World War II ended with Japan’s surrender, impacting culture, politics, and global relations for generations."
+            "date": "August 15",
+            "event": "End of World War II",
+            "description": "World War II ended with Japan’s surrender, impacting culture, politics, and global relations for generations.",
+            "type": "History",
+            "related_industries": ["History", "Politics", "Military"],
+            "social_mentions": "Japan's surrender marked the end of the deadliest conflict in human history, reshaping international alliances and leading to the creation of the United Nations.",
+            "fun_fact": "The official surrender ceremony took place aboard the USS Missouri in Tokyo Bay, with representatives from both Japan and the Allied forces present.",
+            "hashtags": ["#WWIIEnd", "#EndOfWWII", "#VJDay"]
          },
          {
-           "date": "May 8",
-           "event": "Victory in Europe (VE) Day",
-           "description": "VE Day celebrated the defeat of Nazi Germany, leading to widespread celebrations and reflection."
+            "date": "May 8",
+            "event": "Victory in Europe (VE) Day",
+            "description": "VE Day celebrated the defeat of Nazi Germany, leading to widespread celebrations and reflection.",
+            "type": "History",
+            "related_industries": ["History", "Culture", "Military"],
+            "social_mentions": "VE Day marked the end of World War II in Europe, with people across the continent celebrating the liberation from Nazi occupation.",
+            "fun_fact": "VE Day is celebrated annually in many countries, with parades, remembrance events, and historical reflections on the victory and its impact on the world.",
+            "hashtags": ["#VEDay", "#VictoryInEurope", "#WWII"]
          },
          {
-           "date": "Year-Round",
-           "event": "Rise of Film Noir",
-           "description": "Film noir surged in popularity, reflecting post-war anxieties through moody, shadowy cinematography and themes of moral ambiguity."
+            "date": "Year-Round",
+            "event": "Rise of Film Noir",
+            "description": "Film noir surged in popularity, reflecting post-war anxieties through moody, shadowy cinematography and themes of moral ambiguity.",
+            "type": "Film",
+            "related_industries": ["Film", "Entertainment", "Culture"],
+            "social_mentions": "Film noir became known for its dark themes, femme fatales, and cynical characters, influencing countless films in the years to come.",
+            "fun_fact": "The term 'film noir' was coined by French critics in the 1940s, referring to a new wave of dark, pessimistic films that emerged after World War II.",
+            "hashtags": ["#FilmNoir", "#Cinematography", "#ClassicFilms"]
          }
       ],
       "1944": [
          {
-           "date": "June 6",
-           "event": "D-Day Landings",
-           "description": "Allied forces stormed the beaches of Normandy in one of the largest amphibious military operations in history, marking a turning point in World War II."
+            "date": "June 6",
+            "event": "D-Day Landings",
+            "description": "Allied forces stormed the beaches of Normandy in one of the largest amphibious military operations in history, marking a turning point in World War II.",
+            "type": "Military",
+            "related_industries": ["Military", "History", "Politics"],
+            "social_mentions": "D-Day remains one of the most significant and heroic operations of World War II, with thousands of soldiers making sacrifices for freedom.",
+            "fun_fact": "The D-Day invasion involved over 156,000 Allied troops from the U.S., U.K., and Canada, making it one of the largest military assaults in history.",
+            "hashtags": ["#DDay", "#WWII", "#Normandy"]
          },
          {
-           "date": "June 22",
-           "event": "G.I. Bill Signed into Law",
-           "description": "President Franklin D. Roosevelt signed the Servicemen's Readjustment Act, offering benefits to returning World War II veterans, including funding for education and housing."
+            "date": "June 22",
+            "event": "G.I. Bill Signed into Law",
+            "description": "President Franklin D. Roosevelt signed the Servicemen's Readjustment Act, offering benefits to returning World War II veterans, including funding for education and housing.",
+            "type": "Politics",
+            "related_industries": ["Government", "Veterans Affairs", "Education"],
+            "social_mentions": "The G.I. Bill played a significant role in shaping post-war America, providing millions of veterans with the opportunity to pursue higher education and homeownership.",
+            "fun_fact": "The G.I. Bill is credited with helping to create the American middle class by giving veterans the tools to succeed in civilian life.",
+            "hashtags": ["#GIBill", "#Veterans", "#Education"]
          },
          {
-           "date": "November 8",
-           "event": "Release of 'Double Indemnity'",
-           "description": "Billy Wilder’s 'Double Indemnity' premiered, becoming a quintessential film noir that influenced cinema for decades."
+            "date": "November 8",
+            "event": "Release of 'Double Indemnity'",
+            "description": "Billy Wilder’s 'Double Indemnity' premiered, becoming a quintessential film noir that influenced cinema for decades.",
+            "type": "Entertainment",
+            "related_industries": ["Film", "Entertainment"],
+            "social_mentions": "'Double Indemnity' is celebrated for its gripping storyline, dark themes, and iconic performances, which helped define the film noir genre.",
+            "fun_fact": "The film’s screenplay, written by Billy Wilder and Raymond Chandler, is often considered one of the greatest in film history.",
+            "hashtags": ["#DoubleIndemnity", "#FilmNoir", "#ClassicFilm"]
          }
       ],
       "1943": [
          {
-           "date": "January 14",
-           "event": "Casablanca Wins Hearts",
-           "description": "The film 'Casablanca' premiered widely in the United States, cementing its place as a Hollywood classic with timeless performances and themes of love and sacrifice."
+            "date": "January 14",
+            "event": "Casablanca Wins Hearts",
+            "description": "The film 'Casablanca' premiered widely in the United States, cementing its place as a Hollywood classic with timeless performances and themes of love and sacrifice.",
+            "type": "Entertainment",
+            "related_industries": ["Film", "Entertainment"],
+            "social_mentions": "'Casablanca' became a cultural touchstone, with its memorable quotes and enduring popularity across generations.",
+            "fun_fact": "'Casablanca' won three Academy Awards, including Best Picture, and is widely considered one of the greatest films ever made.",
+            "hashtags": ["#Casablanca", "#ClassicFilm", "#Hollywood"]
          },
          {
-           "date": "July 25",
-           "event": "Fall of Mussolini",
-           "description": "Italian dictator Benito Mussolini was overthrown, marking a significant shift in World War II's European theater."
+            "date": "July 25",
+            "event": "Fall of Mussolini",
+            "description": "Italian dictator Benito Mussolini was overthrown, marking a significant shift in World War II's European theater.",
+            "type": "Political",
+            "related_industries": ["Politics", "History"],
+            "social_mentions": "Mussolini's overthrow marked a critical turning point in Italy's role in World War II, as it led to Italy's surrender and eventual shift of allegiance to the Allies.",
+            "fun_fact": "After his fall from power, Mussolini was captured by Italian partisans and executed by firing squad in 1945.",
+            "hashtags": ["#Mussolini", "#WWII", "#ItalianHistory"]
          },
          {
-           "date": "Year-Round",
-           "event": "Rise of 'Rosie the Riveter'",
-           "description": "The 'We Can Do It!' poster and the character Rosie the Riveter became symbols of female empowerment and the wartime workforce in America."
+            "date": "Year-Round",
+            "event": "Rise of 'Rosie the Riveter'",
+            "description": "The 'We Can Do It!' poster and the character Rosie the Riveter became symbols of female empowerment and the wartime workforce in America.",
+            "type": "Cultural",
+            "related_industries": ["Culture", "Labor", "Gender Equality"],
+            "social_mentions": "'Rosie the Riveter' became an enduring symbol of women's strength, resilience, and capability, particularly during World War II when women took on essential roles in factories and other industries.",
+            "fun_fact": "The famous 'We Can Do It!' poster was originally created to encourage workers during wartime, and although it wasn't initially associated with Rosie the Riveter, it has since become one of the most iconic images of female empowerment.",
+            "hashtags": ["#RosieTheRiveter", "#WeCanDoIt", "#WomenEmpowerment"]
          }
       ],
       "1942": [
          {
-           "date": "January 1",
-           "event": "Formation of the United Nations Declaration",
-           "description": "26 nations signed the Declaration of the United Nations, pledging cooperation in the fight against the Axis Powers."
+            "date": "January 1",
+            "event": "Formation of the United Nations Declaration",
+            "description": "26 nations signed the Declaration of the United Nations, pledging cooperation in the fight against the Axis Powers.",
+            "type": "Political",
+            "related_industries": ["Politics", "International Relations"],
+            "social_mentions": "The Declaration of the United Nations was a pivotal moment in history, laying the foundation for the global alliance that would eventually lead to victory in World War II.",
+            "fun_fact": "The Declaration was signed by 26 nations, including the United States, the United Kingdom, and the Soviet Union, marking the beginning of a more unified global effort against fascism.",
+            "hashtags": ["#UnitedNations", "#WWII", "#InternationalRelations"]
          },
          {
-           "date": "August 28",
-           "event": "Launch of 'Bambi'",
-           "description": "Walt Disney’s animated film 'Bambi' premiered, capturing hearts with its emotional story and groundbreaking animation."
+            "date": "August 28",
+            "event": "Launch of 'Bambi'",
+            "description": "Walt Disney’s animated film 'Bambi' premiered, capturing hearts with its emotional story and groundbreaking animation.",
+            "type": "Film",
+            "related_industries": ["Entertainment", "Animation"],
+            "social_mentions": "'Bambi' became one of Disney's most beloved films, with its themes of love, loss, and nature resonating deeply with audiences worldwide.",
+            "fun_fact": "'Bambi' was one of the first animated films to depict nature in such a realistic and emotional way, helping to set a new standard in animation.",
+            "hashtags": ["#Bambi", "#Disney", "#Animation"]
          },
          {
-           "date": "October 31",
-           "event": "Carole Lombard Dies in Plane Crash",
-           "description": "The beloved actress Carole Lombard tragically passed away in a plane crash, becoming an enduring Hollywood legend."
+            "date": "October 31",
+            "event": "Carole Lombard Dies in Plane Crash",
+            "description": "The beloved actress Carole Lombard tragically passed away in a plane crash, becoming an enduring Hollywood legend.",
+            "type": "Entertainment",
+            "related_industries": ["Entertainment", "Hollywood", "Aviation"],
+            "social_mentions": "Carole Lombard's death shocked Hollywood and her fans, as she was known for her comedic talent and beauty, leaving behind a lasting legacy in film.",
+            "fun_fact": "Lombard was married to Clark Gable, one of the biggest stars of the time, and her death deeply affected him, leading to his enlistment in the Army Air Forces during World War II.",
+            "hashtags": ["#CaroleLombard", "#HollywoodLegend", "#PlaneCrash"]
          }
       ],
       "1941": [
          {
-           "date": "December 7",
-           "event": "Attack on Pearl Harbor",
-           "description": "Japan’s surprise attack on Pearl Harbor drew the United States into World War II, reshaping global alliances and military strategy."
+            "date": "December 7",
+            "event": "Attack on Pearl Harbor",
+            "description": "Japan’s surprise attack on Pearl Harbor drew the United States into World War II, reshaping global alliances and military strategy.",
+            "type": "Historical Event",
+            "related_industries": ["History", "Military", "Politics"],
+            "social_mentions": "The attack led to the United States' formal entry into World War II and had lasting impacts on global politics and military strategy.",
+            "fun_fact": "The attack resulted in the destruction of more than 180 aircraft and the sinking of several ships, including the USS Arizona, which remains submerged today as a memorial.",
+            "hashtags": ["#PearlHarbor", "#WWII", "#History"]
          },
          {
-           "date": "November 13",
-           "event": "Debut of 'Citizen Kane'",
-           "description": "Orson Welles' 'Citizen Kane' premiered, later hailed as one of the greatest films in cinematic history."
+            "date": "November 13",
+            "event": "Debut of 'Citizen Kane'",
+            "description": "Orson Welles' 'Citizen Kane' premiered, later hailed as one of the greatest films in cinematic history.",
+            "type": "Film",
+            "related_industries": ["Film", "Entertainment"],
+            "social_mentions": "'Citizen Kane' is known for its groundbreaking narrative structure, use of deep focus cinematography, and innovative special effects.",
+            "fun_fact": "'Citizen Kane' was Orson Welles' first feature film, and it won an Academy Award for Best Original Screenplay.",
+            "hashtags": ["#CitizenKane", "#OrsonWelles", "#FilmHistory"]
          },
          {
-           "date": "Year-Round",
-           "event": "Introduction of Cheerios",
-           "description": "General Mills introduced Cheerios, a cereal that became a breakfast staple in households across America."
+            "date": "Year-Round",
+            "event": "Introduction of Cheerios",
+            "description": "General Mills introduced Cheerios, a cereal that became a breakfast staple in households across America.",
+            "type": "Food & Beverage",
+            "related_industries": ["Food & Beverage", "Retail", "Consumer Goods"],
+            "social_mentions": "Cheerios revolutionized the cereal industry with its nutritious, heart-healthy formula and became one of the most recognized brands in the U.S.",
+            "fun_fact": "Cheerios was originally introduced as 'Cheerio-Oats' in 1941 before being renamed to simply 'Cheerios' in 1945.",
+            "hashtags": ["#Cheerios", "#Breakfast", "#CerealStaple"]
          }
       ],
       "1940": [
          {
-           "date": "May 10",
-           "event": "Winston Churchill Becomes Prime Minister",
-           "description": "Winston Churchill assumed the role of British Prime Minister, becoming a pivotal leader during World War II."
+            "date": "May 10",
+            "event": "Winston Churchill Becomes Prime Minister",
+            "description": "Winston Churchill assumed the role of British Prime Minister, becoming a pivotal leader during World War II.",
+            "type": "Politics",
+            "related_industries": ["Politics", "History"],
+            "social_mentions": "Churchill's leadership and inspiring speeches became a beacon of hope for the British people during the darkest days of World War II.",
+            "fun_fact": "Churchill was known for his iconic speeches, including 'We shall fight on the beaches,' which galvanized the British resolve during the war.",
+            "hashtags": ["#WinstonChurchill", "#WWII", "#BritishPrimeMinister"]
          },
          {
-           "date": "November 13",
-           "event": "Disney’s 'Fantasia' Premieres",
-           "description": "Walt Disney's experimental animated film 'Fantasia' was released, combining classical music with imaginative visuals."
+            "date": "November 13",
+            "event": "Disney’s 'Fantasia' Premieres",
+            "description": "Walt Disney's experimental animated film 'Fantasia' was released, combining classical music with imaginative visuals.",
+            "type": "Film",
+            "related_industries": ["Film", "Animation", "Music"],
+            "social_mentions": "'Fantasia' pushed the boundaries of animation by blending iconic music with groundbreaking animation techniques, establishing itself as a timeless classic.",
+            "fun_fact": "'Fantasia' was one of the first films to feature stereophonic sound, creating a more immersive experience for viewers.",
+            "hashtags": ["#Fantasia", "#Disney", "#Animation"]
          },
          {
-           "date": "Year-Round",
-           "event": "Debut of 'Tom and Jerry'",
-           "description": "Hanna-Barbera introduced 'Tom and Jerry,' a cartoon series that became a beloved classic worldwide."
+            "date": "Year-Round",
+            "event": "Debut of 'Tom and Jerry'",
+            "description": "Hanna-Barbera introduced 'Tom and Jerry,' a cartoon series that became a beloved classic worldwide.",
+            "type": "Television",
+            "related_industries": ["Television", "Entertainment", "Animation"],
+            "social_mentions": "The slapstick comedy and timeless appeal of the characters have made 'Tom and Jerry' a favorite for generations.",
+            "fun_fact": "'Tom and Jerry' won multiple Academy Awards and became one of the most iconic animated series of all time.",
+            "hashtags": ["#TomAndJerry", "#Animation", "#ClassicCartoons"]
          }
       ]
    }
