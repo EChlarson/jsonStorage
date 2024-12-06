@@ -4,7 +4,10 @@
          {
             "date": "July 2023",
             "event": "Barbenheimer Phenomenon",
-            "description": "The simultaneous release of *Barbie* and *Oppenheimer* became a massive pop culture event, with fans creating memes, organizing back-to-back movie marathons, and both films exceeding box office expectations."
+            "description": "The simultaneous release of *Barbie* and *Oppenheimer* became a massive pop culture event, with fans creating memes, organizing back-to-back movie marathons, and both films exceeding box office expectations.",
+            "type": "Movie Release",
+            "social_mentions": "Over 5 million tweets within the first week",
+            "fun_fact": "Many fans dressed in pink for *Barbie* screenings and wore vintage suits for *Oppenheimer*, blending aesthetics in unique ways."
          },
          {
             "date": "June 2023",
