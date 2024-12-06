@@ -1603,92 +1603,124 @@
             "fun_fact": "Nina Dobrev was born in Bulgaria and moved to Canada at a young age, where she began her acting career."
          },
          {
-            "name": "Chloe Grace Moretz", 
-            "birth_date": "February 10, 1993"
+            "name": "Chloe Grace Moretz",
+            "birth_date": "February 10, 1993",
+            "birth_place": "Atlanta, Georgia, USA",
+            "parents": ["Teri Duke", "McCoy Moretz"],
+            "reason_famous": "Actress known for roles in films such as 'Kick-Ass,' 'The 5th Wave,' and 'Carrie.'",
+            "fun_fact": "Chloe Grace Moretz is also a vocal advocate for women's rights and has been involved in various charity projects."
          },
          {
-            "name": "Josephine Skriver", 
-            "birth_date": "April 14, 1993"
+            "name": "Josephine Skriver",
+            "birth_date": "April 14, 1993",
+            "birth_place": "Copenhagen, Denmark",
+            "parents": ["Anne (Mother)", "Zdenek Skriver (Father)"],
+            "reason_famous": "Model known for her work with Victoria's Secret and other high-fashion brands.",
+            "fun_fact": "Josephine Skriver is an outspoken advocate for LGBTQ+ rights and has worked with numerous charitable organizations."
          },
          {
-            "name": "Lily Collins", 
-            "birth_date": "March 18, 1993"
+            "name": "Lily Collins",
+            "birth_date": "March 18, 1993",
+            "birth_place": "Guildford, Surrey, England",
+            "parents": ["Phil Collins (Father)", "Jill Tavelman (Mother)"],
+            "reason_famous": "Actress known for roles in 'Mirror Mirror,' 'The Mortal Instruments: City of Bones,' and 'Emily in Paris.'",
+            "fun_fact": "Lily Collins is also an author, having written the book 'Unfiltered: No Shame, No Regrets, Just Me.'"
          },
          {
-            "name": "Katherine Langford", 
-            "birth_date": "April 29, 1993"
+            "name": "Katherine Langford",
+            "birth_date": "April 29, 1993",
+            "birth_place": "Perth, Western Australia, Australia",
+            "parents": ["Stephen Langford (Father)", "Elizabeth Langford (Mother)"],
+            "reason_famous": "Actress known for her breakout role as Hannah Baker in the Netflix series '13 Reasons Why.'",
+            "fun_fact": "Katherine Langford was a competitive swimmer before deciding to pursue acting."
          },
          {
-            "name": "Sadie Sink", 
-            "birth_date": "April 16, 1993"
+            "name": "Sadie Sink",
+            "birth_date": "April 16, 1993",
+            "birth_place": "Bridgerton, New Jersey, USA",
+            "parents": ["Casey Sink (Mother)", "Mark Sink (Father)"],
+            "reason_famous": "Actress known for her role as Max Mayfield on the Netflix series 'Stranger Things.'",
+            "fun_fact": "Sadie Sink began her acting career in theater before transitioning to TV and film."
          }
       ],
       "1992": [
          {
-            "name": "Emily Ratajkowski", 
-            "birth_date": "June 7, 1992"
+            "name": "Emily Ratajkowski",
+            "birth_date": "June 7, 1992",
+            "birth_place": "London, England, UK",
+            "parents": ["Kathleen Balgley (Mother)", "John Ratajkowski (Father)"],
+            "reason_famous": "Model, actress, and entrepreneur known for her appearance in the music video for 'Blurred Lines' and her social media presence.",
+            "fun_fact": "Emily is also a published author and has written essays on body image, feminism, and self-expression."
          },
          {
-            "name": "Brendon Urie", 
-            "birth_date": "April 12, 1992"
+            "name": "Brendon Urie",
+            "birth_date": "April 12, 1992",
+            "birth_place": "St. George, Utah, USA",
+            "parents": ["Grace Urie (Mother)", "Donald Urie (Father)"],
+            "reason_famous": "Lead vocalist, guitarist, and sole member of Panic! at the Disco, known for his powerful voice and theatrical performances.",
+            "fun_fact": "Brendon is also a philanthropist, supporting various charities, and has appeared on Broadway in the musical 'Kinky Boots.'"
          },
          {
-            "name": "Vanessa Hudgens", 
-            "birth_date": "December 14, 1992"
+            "name": "Vanessa Hudgens",
+            "birth_date": "December 14, 1992",
+            "birth_place": "Salinas, California, USA",
+            "parents": ["Greg Hudgens (Father)", "Gina Hudgens (Mother)"],
+            "reason_famous": "Actress and singer, best known for her role as Gabriella Montez in the 'High School Musical' series.",
+            "fun_fact": "Vanessa is also a talented musician and has released several albums and singles. She is known for her passion for yoga and fitness."
          },
          {
-            "name": "Kerry Washington", 
-            "birth_date": "January 31, 1992"
+            "name": "Kerry Washington",
+            "birth_date": "January 31, 1992",
+            "birth_place": "The Bronx, New York, USA",
+            "parents": ["Earle Washington Jr. (Father)", "Dr. Valerie Washington (Mother)"],
+            "reason_famous": "Actress, best known for her role as Olivia Pope on the TV series 'Scandal.'",
+            "fun_fact": "Kerry is also a political activist and advocate for social justice issues. She has served as a director and producer on various projects."
          },
          {
-            "name": "Kendall Jenner", 
-            "birth_date": "May 3, 1992"
+            "name": "Zayn Malik",
+            "birth_date": "January 12, 1992",
+            "birth_place": "Bradford, West Yorkshire, England",
+            "parents": ["Yaser Malik (Father)", "Trisha Malik (Mother)"],
+            "reason_famous": "Singer and former member of the boy band One Direction, known for his successful solo music career.",
+            "fun_fact": "Zayn was the first member of One Direction to release a solo album, 'Mind of Mine,' which was critically acclaimed."
          },
          {
-            "name": "Selena Gomez", 
-            "birth_date": "July 22, 1992"
+            "name": "Harry Styles",
+            "birth_date": "February 1, 1992",
+            "birth_place": "Redditch, Worcestershire, England",
+            "parents": ["Desmond Styles (Father)", "Anne Twist (Mother)"],
+            "reason_famous": "Singer, songwriter, and actor, known for being a member of the boy band One Direction and for his successful solo music career.",
+            "fun_fact": "Harry's debut solo album, 'Harry Styles,' was released in 2017 and features a mix of rock, pop, and folk influences."
          },
          {
-            "name": "Justin Bieber", 
-            "birth_date": "March 1, 1992"
-         },
-         {
-            "name": "Zayn Malik", 
-            "birth_date": "January 12, 1992"
-         },
-         {
-            "name": "Harry Styles", 
-            "birth_date": "February 1, 1992"
-         },
-         {
-            "name": "Billie Eilish", 
-            "birth_date": "December 18, 1992"}
-
+            "name": "Billie Eilish",
+            "birth_date": "December 18, 1992",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Maggie Baird (Mother)", "Patrick O'Connell (Father)"],
+            "reason_famous": "Singer, songwriter, and musician, known for her unique style and hit songs like 'Bad Guy' and 'Ocean Eyes.'",
+            "fun_fact": "Billie Eilish was just 17 years old when she won five Grammy Awards in 2020, including Album of the Year."
+         }
       ],
       "1991": [
          {
-            "name": "Emma Watson", 
-            "birth_date": "April 15, 1991"
+            "name": "Emma Watson",
+            "birth_date": "April 15, 1991",
+            "birth_place": "Paris, France",
+            "parents": ["Jacqueline Luesby (Mother)", "Chris Watson (Father)"],
+            "reason_famous": "Actress, known for her role as Hermione Granger in the 'Harry Potter' series and her work as a women's rights activist.",
+            "fun_fact": "Emma Watson graduated from Brown University with a degree in English literature while still acting in the 'Harry Potter' films."
          },
          {
-            "name": "Miley Cyrus", 
-            "birth_date": "November 23, 1991"
+            "name": "Miley Cyrus",
+            "birth_date": "November 23, 1991",
+            "birth_place": "Franklin, Tennessee, USA",
+            "parents": ["Billy Ray Cyrus (Father)", "Tish Cyrus (Mother)"],
+            "reason_famous": "Singer, songwriter, and actress, known for her role as Hannah Montana and her music career, including hits like 'Wrecking Ball' and 'Party in the USA'.",
+            "fun_fact": "Miley Cyrus is known for her wide vocal range and unique style, which blends country, pop, and rock elements."
          },
          {
             "name": "Zayn Malik", 
             "birth_date": "January 12, 1991"
-         },
-         {
-            "name": "Kendall Jenner", 
-            "birth_date": "May 3, 1991"
-         },
-         {
-            "name": "Harry Styles", 
-            "birth_date": "February 1, 1991"
-         },
-         {
-            "name": "Kylie Jenner", 
-            "birth_date": "August 10, 1991"
          },
          {
             "name": "Selena Gomez", 
