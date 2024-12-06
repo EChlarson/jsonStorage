@@ -8,36 +8,70 @@
             "birth_place": "Los Angeles, California, USA",
             "parents": ["Priyanka Chopra", "Nick Jonas"],
             "reason_famous": "Daughter of Nick Jonas and Priyanka Chopra",
-            "fun_fact": "Her name, 'Malti,' means 'small fragrant flower' in Sanskrit.",
-            "image":"None"
+            "fun_fact": "Her name, 'Malti,' means 'small fragrant flower' in Sanskrit."
          },
          {
-            "name": "Rihanna's Second Child, Riot Rose Mayers", 
-            "birth_date": "August 1, 2023"
+            "name": "Riot Rose Mayers",
+            "gender": "Male",
+            "birth_date": "August 1, 2023",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Rihanna", "A$AP Rocky"],
+            "reason_famous": "Son of Rihanna and A$AP Rocky",
+            "fun_fact": "His unique name, 'Riot,' reflects his parents' creative and bold personalities."
          },
          {
-            "name": "Paris Hilton's Son, Phoenix Barron Hilton Reum", 
-            "birth_date": "January 16, 2023"
+            "name": "Phoenix Barron Hilton Reum",
+            "gender": "Male",
+            "birth_date": "January 16, 2023",
+            "birth_place": "USA",
+            "parents": ["Paris Hilton", "Carter Reum"],
+            "reason_famous": "Son of Paris Hilton and Carter Reum",
+            "fun_fact": "His name, 'Phoenix,' symbolizes rebirth and strength, while 'Barron' honors Paris Hilton's grandfather, Barron Hilton."
          },
          {
-            "name": "Blake Lively's Fourth Child", 
-            "birth_date": "February 2023 (exact date unknown)"
+            "name": "Blake Lively's Fourth Child",
+            "gender": "Unknown",
+            "birth_date": "February 2023 (exact date unknown)",
+            "birth_place": "USA",
+            "parents": ["Blake Lively", "Ryan Reynolds"],
+            "reason_famous": "Child of Blake Lively and Ryan Reynolds",
+            "fun_fact": "The family is famously private about their children's lives, keeping details under wraps to protect their privacy."
          },
          {
-            "name": "Keke Palmer's Son, Leodis Andrellton Jackson", 
-            "birth_date": "February 25, 2023"
+            "name": "Leodis Andrellton Jackson",
+            "gender": "Male",
+            "birth_date": "February 25, 2023",
+            "birth_place": "USA",
+            "parents": ["Keke Palmer", "Darius Jackson"],
+            "reason_famous": "Son of actress and singer Keke Palmer and fitness instructor Darius Jackson",
+            "fun_fact": "Nicknamed 'Leo,' his unique name reflects his parents' love for individuality and creativity."
          },
          {
-            "name": "Chrissy Teigen and John Legend's Daughter, Esti Maxine Stephens", 
-            "birth_date": "January 13, 2023"
+            "name": "Esti Maxine Stephens",
+            "gender": "Female",
+            "birth_date": "January 13, 2023",
+            "birth_place": "USA",
+            "parents": ["Chrissy Teigen", "John Legend"],
+            "reason_famous": "Daughter of model and TV personality Chrissy Teigen and musician John Legend",
+            "fun_fact": "Her name, 'Esti,' means 'star' in Hebrew, and 'Maxine' honors Chrissy Teigen's grandmother."
          },
          {
-            "name": "Elon Musk and Grimes' Child, Techno Mechanicus", 
-            "birth_date": "Exact date unknown, 2023"
+            "name": "Techno Mechanicus",
+            "gender": "Unknown",
+            "birth_date": "2023 (exact date unknown)",
+            "birth_place": "USA",
+            "parents": ["Elon Musk", "Grimes"],
+            "reason_famous": "Child of entrepreneur Elon Musk and musician Grimes, known for their unconventional names",
+            "fun_fact": "Techno Mechanicus' name continues the parents' trend of choosing unique and futuristic names for their children."
          },
          {
-            "name": "Hilary Swank's Twins", 
-            "birth_date": "April 2023 (exact date unknown)"
+            "name": "Hilary Swank's Twins",
+            "gender": "Unknown",
+            "birth_date": "April 2023 (exact date unknown)",
+            "birth_place": "USA",
+            "parents": ["Hilary Swank", "Philip Schneider"],
+            "reason_famous": "Twins of actress Hilary Swank and entrepreneur Philip Schneider",
+            "fun_fact": "Hilary Swank announced the arrival of her twins with excitement, keeping their names and other details private for now."
          },
          {
             "name": "Rebel Wilson's Daughter, Royce Lillian", 
@@ -1016,276 +1050,557 @@
       ],
       "1999": [
          {
-            "name": "Apple Blythe Alison Martin", 
-            "birth_date": "May 14, 1999"
+            "name": "Apple Blythe Alison Martin",
+            "gender": "Female",
+            "birth_date": "May 14, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Gwyneth Paltrow", "Chris Martin"],
+            "reason_famous": "Daughter of actress Gwyneth Paltrow and Coldplay's lead singer Chris Martin",
+            "fun_fact": "Her unique name, 'Apple,' was chosen by her mother, Gwyneth Paltrow, for its simple, wholesome appeal."
          },
          {
-            "name": "Brooklyn Joseph Beckham", 
-            "birth_date": "March 4, 1999"
+            "name": "Brooklyn Joseph Beckham",
+            "gender": "Male",
+            "birth_date": "March 4, 1999",
+            "birth_place": "London, England, UK",
+            "parents": ["Victoria Beckham", "David Beckham"],
+            "reason_famous": "Son of former soccer player David Beckham and fashion designer Victoria Beckham",
+            "fun_fact": "Brooklyn, named after the borough of New York City, is the eldest of the Beckham children and has pursued photography and modeling."
          },
          {
-            "name": "Mason Dash Disick", 
-            "birth_date": "December 14, 1999"
+            "name": "Mason Dash Disick",
+            "gender": "Male",
+            "birth_date": "December 14, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kourtney Kardashian", "Scott Disick"],
+            "reason_famous": "Son of reality TV stars Kourtney Kardashian and Scott Disick",
+            "fun_fact": "Mason is the eldest child of the Kardashian family and is known for his appearances on the family's reality shows."
          },
          {
-            "name": "Jaden Christopher Syre Smith", 
-            "birth_date": "July 8, 1999"
+            "name": "Jaden Christopher Syre Smith",
+            "gender": "Male",
+            "birth_date": "July 8, 1999",
+            "birth_place": "Malibu, California, USA",
+            "parents": ["Will Smith", "Jada Pinkett Smith"],
+            "reason_famous": "Son of actors Will Smith and Jada Pinkett Smith, known for his acting, music, and fashion",
+            "fun_fact": "Jaden has pursued various creative endeavors, including acting, music, and fashion, and is known for his unique, boundary-pushing style."
          },
          {
-            "name": "Dylan Sprouse", 
-            "birth_date": "August 4, 1999"
+            "name": "Dylan Sprouse",
+            "gender": "Male",
+            "birth_date": "August 4, 1999",
+            "birth_place": "Artesia, California, USA",
+            "parents": ["Matthew Sprouse", "Melanie Wright"],
+            "reason_famous": "Actor known for his roles in 'The Suite Life of Zack & Cody' and his career in film and business",
+            "fun_fact": "Dylan, along with his twin brother Cole, gained fame at a young age and later pursued a career in filmmaking and business, including opening a meadery."
          },
          {
-            "name": "Cole Sprouse", 
-            "birth_date": "August 4, 1999"
+            "name": "Cole Sprouse",
+            "gender": "Male",
+            "birth_date": "August 4, 1999",
+            "birth_place": "Artesia, California, USA",
+            "parents": ["Matthew Sprouse", "Melanie Wright"],
+            "reason_famous": "Actor known for his role in 'Riverdale' and his previous role in 'The Suite Life of Zack & Cody'",
+            "fun_fact": "Cole, along with his twin brother Dylan, began acting at a young age and later pursued photography and his degree in archaeology."
          },
          {
-            "name": "Lourdes Maria Ciccone Leon", 
-            "birth_date": "October 14, 1999"
+            "name": "Lourdes Maria Ciccone Leon",
+            "gender": "Female",
+            "birth_date": "October 14, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Madonna", "Carlos Leon"],
+            "reason_famous": "Daughter of pop icon Madonna and fitness trainer Carlos Leon",
+            "fun_fact": "Lourdes is known for her work in fashion and her collaboration with her mother on the fashion line 'Material Girl.'"
          },
          {
-            "name": "Kingston James McGregor Rossdale", 
-            "birth_date": "May 26, 1999"
+            "name": "Kingston James McGregor Rossdale",
+            "gender": "Male",
+            "birth_date": "May 26, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Gwen Stefani", "Gavin Rossdale"],
+            "reason_famous": "Son of singer Gwen Stefani and musician Gavin Rossdale",
+            "fun_fact": "Kingston is the eldest son of Gwen Stefani and Gavin Rossdale, and is often seen with his famous parents at public events."
          },
          {
-            "name": "Sophie Rose Stewart", 
-            "birth_date": "April 17, 1999"
+            "name": "Sophie Rose Stewart",
+            "gender": "Female",
+            "birth_date": "April 17, 1999",
+            "birth_place": "USA",
+            "parents": ["Stella McCartney", "Alasdhair Willis"],
+            "reason_famous": "Daughter of fashion designer Stella McCartney and businessman Alasdhair Willis",
+            "fun_fact": "Sophie is known for being part of the McCartney family, which is famous for both fashion and music, with her mother being a renowned designer."
          },
          {
-            "name": "Zoe Kravitz", 
-            "birth_date": "December 1, 1999"
+            "name": "Zoe Kravitz",
+            "gender": "Female",
+            "birth_date": "December 1, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Lisa Bonet", "Lenny Kravitz"],
+            "reason_famous": "Actress, singer, and model known for her roles in 'Big Little Lies' and 'Mad Max: Fury Road,' as well as her music career",
+            "fun_fact": "Zoe Kravitz is the daughter of iconic actress Lisa Bonet and musician Lenny Kravitz, and has built her own successful career in film and music."
          }
       ],
       "1998": [
          {
-            "name": "Shiloh Nouvel Jolie-Pitt", 
-            "birth_date": "May 27, 1998"
+            "name": "Shiloh Nouvel Jolie-Pitt",
+            "gender": "Female",
+            "birth_date": "May 27, 1998",
+            "birth_place": "Swakopmund, Namibia",
+            "parents": ["Angelina Jolie", "Brad Pitt"],
+            "reason_famous": "Daughter of actors Angelina Jolie and Brad Pitt, known for being part of one of Hollywood's most famous families",
+            "fun_fact": "Shiloh was the first biological child of Angelina Jolie and Brad Pitt, and her unique name, 'Nouvel,' was chosen by her mother as a tribute to her love of French culture."
          },
          {
-            "name": "Suri Cruise", 
-            "birth_date": "April 18, 1998"
+            "name": "Suri Cruise",
+            "gender": "Female",
+            "birth_date": "April 18, 1998",
+            "birth_place": "Santa Monica, California, USA",
+            "parents": ["Katie Holmes", "Tom Cruise"],
+            "reason_famous": "Daughter of actors Katie Holmes and Tom Cruise, known for being one of Hollywood's most photographed children",
+            "fun_fact": "Suri became a media sensation from a young age due to her famous parents, and has been known for her distinctive fashion sense."
          },
          {
-            "name": "Zuma Nesta Rock Rossdale", 
-            "birth_date": "August 21, 1998"
+            "name": "Zuma Nesta Rock Rossdale",
+            "gender": "Male",
+            "birth_date": "August 21, 1998",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Gwen Stefani", "Gavin Rossdale"],
+            "reason_famous": "Son of singer Gwen Stefani and musician Gavin Rossdale",
+            "fun_fact": "Zuma is the second son of Gwen Stefani and Gavin Rossdale and has been seen accompanying his famous parents to public events."
          },
          {
-            "name": "Maxwell Drew Johnson", 
-            "birth_date": "May 1, 1998"
+            "name": "Maxwell Drew Johnson",
+            "gender": "Female",
+            "birth_date": "May 1, 1998",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Jessica Simpson", "Eric Johnson"],
+            "reason_famous": "Daughter of singer and actress Jessica Simpson and former football player Eric Johnson",
+            "fun_fact": "Maxwell Drew is Jessica Simpson's first child, and her name is a tribute to both her mother and her grandfather, who was named Maxwell."
          },
          {
-            "name": "Mason Dash Disick", 
-            "birth_date": "December 14, 1998"
+            "name": "Mason Dash Disick",
+            "gender": "Male",
+            "birth_date": "December 14, 2009",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kourtney Kardashian", "Scott Disick"],
+            "reason_famous": "Son of reality TV stars Kourtney Kardashian and Scott Disick, known for appearing on the show 'Keeping Up with the Kardashians'",
+            "fun_fact": "Mason is the first child of Kourtney Kardashian and Scott Disick, and has been in the public eye since birth due to his famous family."
          },
          {
-            "name": "Dylan Sprouse", 
-            "birth_date": "August 4, 1998"
+            "name": "Lily-Rose Melody Depp",
+            "gender": "Female",
+            "birth_date": "May 27, 1998",
+            "birth_place": "Paris, France",
+            "parents": ["Johnny Depp", "Vanessa Paradis"],
+            "reason_famous": "Daughter of actor Johnny Depp and singer-actress Vanessa Paradis, known for her career in acting and modeling",
+            "fun_fact": "Lily-Rose Melody Depp made her acting debut at a young age and has worked with renowned filmmakers like Kevin Smith and the French director Xavier Dolan."
          },
          {
-            "name": "Cole Sprouse", 
-            "birth_date": "August 4, 1998"
+            "name": "Ava Phillippe",
+            "gender": "Female",
+            "birth_date": "September 24, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Reese Witherspoon", "Ryan Phillippe"],
+            "reason_famous": "Daughter of actress Reese Witherspoon and actor Ryan Phillippe, known for her resemblance to her mother and her presence on social media",
+            "fun_fact": "Ava has often been compared to her mother, Reese Witherspoon, due to their striking resemblance and has ventured into modeling and public appearances."
          },
          {
-            "name": "Lily-Rose Melody Depp", 
-            "birth_date": "May 27, 1998"
-         },
-         {
-            "name": "Ava Phillippe", 
-            "birth_date": "September 24, 1998"
-         },
-         {
-            "name": "Flynn Christopher Bloom", 
-            "birth_date": "January 6, 1998"
-         }
+            "name": "Flynn Christopher Bloom",
+            "gender": "Male",
+            "birth_date": "January 6, 2011",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Miranda Kerr", "Orlando Bloom"],
+            "reason_famous": "Son of supermodel Miranda Kerr and actor Orlando Bloom, known for being part of the celebrity couple's family",
+            "fun_fact": "Flynn has been photographed with his parents since a young age and has been seen accompanying his mother at various public events."
+        }
       ],
       "1997": [
          {
-            "name": "Maddox Chivan", 
-            "birth_date": "August 5, 1997"
+            "name": "Maddox Chivan",
+            "gender": "Male",
+            "birth_date": "August 5, 2001",
+            "birth_place": "Cambodia",
+            "parents": ["Angelina Jolie", "Jonny Lee Miller"],
+            "reason_famous": "Adopted son of actress Angelina Jolie, known for his involvement in humanitarian work and his appearances in the public eye",
+            "fun_fact": "Maddox was adopted by Angelina Jolie from Cambodia and has been active in supporting charitable causes, including working with his mother on her United Nations work."
          },
          {
-            "name": "Samuel Garner Affleck", 
-            "birth_date": "February 27, 1997"
+            "name": "Samuel Garner Affleck",
+            "gender": "Male",
+            "birth_date": "February 27, 2012",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Jennifer Garner", "Ben Affleck"],
+            "reason_famous": "Son of actors Jennifer Garner and Ben Affleck, known for being part of the famous Hollywood family",
+            "fun_fact": "Samuel Garner Affleck is the youngest child of Jennifer Garner and Ben Affleck, and has been seen accompanying his parents to various family outings."
          },
          {
-            "name": "Luca Cruz Comrie", 
-            "birth_date": "March 20, 1997"
+            "name": "Luca Cruz Comrie",
+            "gender": "Male",
+            "birth_date": "March 20, 2012",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Hilary Duff", "Mike Comrie"],
+            "reason_famous": "Son of singer and actress Hilary Duff and former professional hockey player Mike Comrie, known for his appearances in the public eye",
+            "fun_fact": "Luca is Hilary Duff's first child, and she has shared many moments of his childhood with fans, including his love for animals and family outings."
          },
          {
-            "name": "Zoe Kravitz", 
-            "birth_date": "December 1, 1997"
+            "name": "Zoe Kravitz",
+            "gender": "Female",
+            "birth_date": "December 1, 1988",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Lenny Kravitz", "Lisa Bonet"],
+            "reason_famous": "Actress, singer, and model, known for her roles in 'Big Little Lies' and 'The Batman,' as well as her career in fashion and music",
+            "fun_fact": "Zoe Kravitz is the daughter of rock star Lenny Kravitz and actress Lisa Bonet, and has made a name for herself in the entertainment industry with a blend of acting, music, and modeling."
          },
          {
-            "name": "Ava Phillippe", 
-            "birth_date": "September 24, 1997"
+            "name": "Ava Phillippe",
+            "gender": "Female",
+            "birth_date": "September 24, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Reese Witherspoon", "Ryan Phillippe"],
+            "reason_famous": "Daughter of actress Reese Witherspoon and actor Ryan Phillippe, known for her striking resemblance to her mother and her presence on social media",
+            "fun_fact": "Ava has ventured into modeling and often shares moments from her life on social media, garnering attention for her natural beauty and family connections."
          },
          {
-            "name": "Kingston James McGregor Rossdale", 
-            "birth_date": "May 26, 1997"
+            "name": "Kingston James McGregor Rossdale",
+            "gender": "Male",
+            "birth_date": "May 26, 2006",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Gwen Stefani", "Gavin Rossdale"],
+            "reason_famous": "Son of singer Gwen Stefani and musician Gavin Rossdale, known for his public appearances and the media attention on his family",
+            "fun_fact": "Kingston is the eldest son of Gwen Stefani and Gavin Rossdale, often seen at public events and in family photos, and has a notable fashion sense like his famous mother."
          },
          {
-            "name": "Flynn Christopher Bloom", 
-            "birth_date": "January 6, 1997"
+            "name": "Flynn Christopher Bloom",
+            "gender": "Male",
+            "birth_date": "January 6, 2011",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Miranda Kerr", "Orlando Bloom"],
+            "reason_famous": "Son of supermodel Miranda Kerr and actor Orlando Bloom, known for his public appearances and being part of the high-profile celebrity family",
+            "fun_fact": "Flynn is the only child of Miranda Kerr and Orlando Bloom, often seen with his parents during family outings and public events."
          },
          {
-            "name": "Harper Seven Beckham", 
-            "birth_date": "July 10, 1997"
+            "name": "Harper Seven Beckham",
+            "gender": "Female",
+            "birth_date": "July 10, 2011",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Victoria Beckham", "David Beckham"],
+            "reason_famous": "Daughter of fashion designer and singer Victoria Beckham and soccer star David Beckham, known for being part of the famous Beckham family",
+            "fun_fact": "Harper Seven Beckham is the youngest of the Beckham children and has often been seen at public events with her famous parents, showing a love for fashion like her mother."
          },
          {
-            "name": "Jackson Emmanuel Bateman", 
-            "birth_date": "October 28, 1997"
+            "name": "Jackson Emmanuel Bateman",
+            "gender": "Male",
+            "birth_date": "October 28, 2009",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Jason Bateman", "Amanda Anka"],
+            "reason_famous": "Son of actor Jason Bateman and actress Amanda Anka, known for his famous parents and occasional public appearances",
+            "fun_fact": "Jackson is the first child of Jason Bateman and Amanda Anka, often seen in family outings, and his parents keep a relatively low profile, raising him out of the spotlight."
          },
          {
-            "name": "Sailor Brinkley Cook", 
-            "birth_date": "July 2, 1997"
+            "name": "Sailor Brinkley Cook",
+            "gender": "Female",
+            "birth_date": "July 2, 1998",
+            "birth_place": "New York, USA",
+            "parents": ["Christie Brinkley", "Peter Cook"],
+            "reason_famous": "Daughter of supermodel Christie Brinkley and architect Peter Cook, known for her career as a model and social media presence",
+            "fun_fact": "Sailor has followed in her mother’s footsteps by becoming a model and has appeared in several fashion campaigns. She is also known for her active presence on social media."
          }
       ],
       "1996": [
          {
-            "name": "Bronx Mowgli Wentz", 
-            "birth_date": "November 20, 1996"
+            "name": "Bronx Mowgli Wentz",
+            "gender": "Male",
+            "birth_date": "November 20, 2008",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Ashlee Simpson", "Pete Wentz"],
+            "reason_famous": "Son of singer Ashlee Simpson and musician Pete Wentz, known for being the child of two famous music artists",
+            "fun_fact": "Bronx Mowgli Wentz’s unique middle name, 'Mowgli,' is inspired by the character from 'The Jungle Book.' He has been seen attending public events with his famous parents."
          },
          {
-            "name": "Lily-Rose Melody Depp", 
-            "birth_date": "May 27, 1996"
+            "name": "Lily-Rose Melody Depp",
+            "gender": "Female",
+            "birth_date": "May 27, 1999",
+            "birth_place": "Paris, France",
+            "parents": ["Johnny Depp", "Vanessa Paradis"],
+            "reason_famous": "Daughter of actor Johnny Depp and singer/actress Vanessa Paradis, known for her career as an actress and model",
+            "fun_fact": "Lily-Rose has pursued a career in acting and modeling, appearing in films such as 'The King' and walking the runway for major fashion brands. She is also fluent in both English and French."
          },
          {
-            "name": "Maddox Chivan", 
-            "birth_date": "August 5, 1996"
+            "name": "Maddox Chivan",
+            "gender": "Male",
+            "birth_date": "August 5, 2001",
+            "birth_place": "Cambodia",
+            "parents": ["Angelina Jolie", "Brad Pitt"],
+            "reason_famous": "Adopted son of actress Angelina Jolie and actor Brad Pitt, known for being part of the Jolie-Pitt family and for his philanthropic efforts",
+            "fun_fact": "Maddox was the first child adopted by Angelina Jolie, and he has been involved in humanitarian work with his mother. He was also the inspiration behind Angelina's dedication to adoption."
          },
          {
-            "name": "Sam Brody Jenner", 
-            "birth_date": "April 24, 1996"
+            "name": "Sam Brody Jenner",
+            "gender": "Male",
+            "birth_date": "April 24, 1983",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Linda Thompson", "Bruce Jenner (now Caitlyn Jenner)"],
+            "reason_famous": "Television personality and socialite, known for his appearance on the reality TV show 'The Hills' and his family background",
+            "fun_fact": "Brody Jenner is the son of former Olympic athlete Caitlyn Jenner and actress Linda Thompson. He gained fame as a reality TV star and later as a DJ and entrepreneur."
          },
          {
-            "name": "Flynn Christopher Bloom", 
-            "birth_date": "January 6, 1996"
+            "name": "Flynn Christopher Bloom",
+            "gender": "Male",
+            "birth_date": "January 6, 2011",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Orlando Bloom", "Miranda Kerr"],
+            "reason_famous": "Son of actor Orlando Bloom and model Miranda Kerr, known for being part of a high-profile celebrity family",
+            "fun_fact": "Flynn is often seen out and about with his famous parents. His name is inspired by his father, Orlando's character, and he has an adventurous spirit like his parents, who have a passion for travel and nature."
          },
          {
-            "name": "Ava Phillippe", 
-            "birth_date": "September 24, 1996"
+            "name": "Ava Phillippe",
+            "gender": "Female",
+            "birth_date": "September 24, 1999",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Reese Witherspoon", "Ryan Phillippe"],
+            "reason_famous": "Daughter of actress Reese Witherspoon and actor Ryan Phillippe, known for her striking resemblance to her mother and for pursuing a career in fashion and modeling",
+            "fun_fact": "Ava has followed in her mother’s footsteps and has been a part of the fashion industry, modeling for several brands. She is known for her love of photography and often shares her artistic work on social media."
          },
          {
-            "name": "Zoe Kravitz", 
-            "birth_date": "December 1, 1996"
+            "name": "Zoe Kravitz",
+            "gender": "Female",
+            "birth_date": "December 1, 1988",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Lenny Kravitz", "Lisa Bonet"],
+            "reason_famous": "Actress, singer, and model, known for her roles in films like 'Mad Max: Fury Road,' 'Fantastic Beasts,' and as Catwoman in 'The Batman.' Daughter of musician Lenny Kravitz and actress Lisa Bonet",
+            "fun_fact": "Zoe Kravitz is also a fashion icon and has released music with her band, Lolawolf. She is known for her distinctive style and her advocacy for social justice issues."
          },
          {
-            "name": "Suri Cruise", 
-            "birth_date": "April 18, 1996"
+            "name": "Suri Cruise",
+            "gender": "Female",
+            "birth_date": "April 18, 2006",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Tom Cruise", "Katie Holmes"],
+            "reason_famous": "Daughter of actor Tom Cruise and actress Katie Holmes, known for her high-profile upbringing in the spotlight",
+            "fun_fact": "Suri has become known for her fashion-forward style from a young age, often seen wearing chic outfits, and she is also known for her occasional appearances in the media alongside her mother."
          },
          {
-            "name": "Harper Seven Beckham", 
-            "birth_date": "July 10, 1996"
+            "name": "Harper Seven Beckham",
+            "gender": "Female",
+            "birth_date": "July 10, 2011",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["David Beckham", "Victoria Beckham"],
+            "reason_famous": "Daughter of footballer David Beckham and fashion designer/singer Victoria Beckham, known for being the youngest child of the famous couple",
+            "fun_fact": "Harper is often spotted with her famous family and has become a style icon in her own right, frequently seen in chic and trendy outfits. She has also been involved in charity events and has shown an interest in fashion like her mother."
          },
          {
-            "name": "Maxwell Drew Johnson", 
-            "birth_date": "May 1, 1996"
+            "name": "Maxwell Drew Johnson",
+            "gender": "Female",
+            "birth_date": "May 1, 2012",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Jessica Simpson", "Eric Johnson"],
+            "reason_famous": "Daughter of singer and fashion designer Jessica Simpson and former football player Eric Johnson, known for her appearances in the media and on her mother's social media platforms",
+            "fun_fact": "Maxwell's name was chosen because her mother, Jessica Simpson, felt it was a strong and unique name. She has an adorable presence on her mother's social media, often sharing family moments."
          }
       ],
       "1995": [
          {
-            "name": "Brooklyn Joseph Beckham", 
-            "birth_date": "March 4, 1995"
+            "name": "Brooklyn Joseph Beckham",
+            "gender": "Male",
+            "birth_date": "March 4, 1999",
+            "birth_place": "London, England",
+            "parents": ["David Beckham", "Victoria Beckham"],
+            "reason_famous": "Eldest son of former footballer David Beckham and fashion designer/singer Victoria Beckham, known for his modeling career and high-profile family",
+            "fun_fact": "Brooklyn has pursued a career in photography and has also dabbled in modeling. He is active on social media, often sharing his family moments and his passion for photography."
          },
          {
-            "name": "Lourdes Maria Ciccone Leon", 
-            "birth_date": "October 14, 1995"
+            "name": "Lourdes Maria Ciccone Leon",
+            "gender": "Female",
+            "birth_date": "October 14, 1996",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Madonna", "Carlos Leon"],
+            "reason_famous": "Daughter of pop icon Madonna and fitness trainer Carlos Leon, known for her work in fashion and music, as well as her activism",
+            "fun_fact": "Lourdes, also known as Lola, is a fashion designer and has worked with her mother on several fashion ventures. She is also passionate about advocating for women's rights and gender equality."
          },
          {
-            "name": "Shiloh Nouvel Jolie-Pitt", 
-            "birth_date": "May 27, 1995"
+            "name": "Shiloh Nouvel Jolie-Pitt",
+            "gender": "Female",
+            "birth_date": "May 27, 2006",
+            "birth_place": "Swakopmund, Namibia",
+            "parents": ["Angelina Jolie", "Brad Pitt"],
+            "reason_famous": "Daughter of famous actors Angelina Jolie and Brad Pitt, known for her high-profile family and for being an advocate for gender identity and human rights",
+            "fun_fact": "Shiloh has shown an interest in acting and is known for her tomboy style. She has also been involved in various humanitarian efforts, following in her mother's philanthropic footsteps."
          },
          {
-            "name": "Zuma Nesta Rock Rossdale", 
-            "birth_date": "August 21, 1995"
+            "name": "Zuma Nesta Rock Rossdale",
+            "gender": "Male",
+            "birth_date": "August 21, 2008",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Gwen Stefani", "Gavin Rossdale"],
+            "reason_famous": "Son of singer Gwen Stefani and musician Gavin Rossdale, known for his famous parents and his appearances in the media as part of a high-profile family",
+            "fun_fact": "Zuma is the second child of Gwen and Gavin, and he has a passion for music, which runs in the family. He is also known for his love of sports and skateboarding."
          },
          {
-            "name": "Sailor Brinkley Cook", 
-            "birth_date": "July 2, 1995"
+            "name": "Sailor Brinkley Cook",
+            "gender": "Female",
+            "birth_date": "July 2, 1998",
+            "birth_place": "New York City, New York, USA",
+            "parents": ["Christie Brinkley", "Peter Cook"],
+            "reason_famous": "Daughter of supermodel Christie Brinkley and businessman Peter Cook, known for following in her mother’s footsteps and becoming a model",
+            "fun_fact": "Sailor has a passion for photography, and like her mother, she has pursued a successful modeling career, even appearing in magazines like Sports Illustrated."
          },
          {
-            "name": "Mason Dash Disick", 
-            "birth_date": "December 14, 1995"
+            "name": "Mason Dash Disick",
+            "gender": "Male",
+            "birth_date": "December 14, 2009",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kourtney Kardashian", "Scott Disick"],
+            "reason_famous": "Son of reality stars Kourtney Kardashian and Scott Disick, known for being featured on the TV show 'Keeping Up with the Kardashians'",
+            "fun_fact": "Mason is one of the Kardashian family's first children, and he became a social media sensation even before he could walk or talk, with fans constantly following his cute moments."
          },
          {
-            "name": "Dylan Sprouse", 
-            "birth_date": "August 4, 1995"
+            "name": "Ava Phillippe",
+            "gender": "Female",
+            "birth_date": "September 24, 1995",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Reese Witherspoon", "Ryan Phillippe"],
+            "reason_famous": "Daughter of actress Reese Witherspoon and actor Ryan Phillippe, known for her striking resemblance to her mother.",
+            "fun_fact": "Ava is known for her passion for fashion and frequently shares her style on social media. She has also been involved in activism and environmental causes."
          },
          {
-            "name": "Cole Sprouse", 
-            "birth_date": "August 4, 1995"
-         },
-         {
-            "name": "Ava Phillippe", 
-            "birth_date": "September 24, 1995"
-         },
-         {
-            "name": "Luca Cruz Comrie", 
-            "birth_date": "March 20, 1995"
-         }
+            "name": "Luca Cruz Comrie",
+            "gender": "Male",
+            "birth_date": "March 20, 1995",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Hilary Duff", "Mike Comrie"],
+            "reason_famous": "Son of actress Hilary Duff and former NHL player Mike Comrie.",
+            "fun_fact": "Luca is often featured on his mother’s social media, and Hilary has shared how much Luca loves spending time outdoors and is a big fan of animals."
+        }
       ],
       "1994": [
          {
-            "name": "North West", 
-            "birth_date": "June 15, 1994"
+            "name": "North West",
+            "gender": "Female",
+            "birth_date": "June 15, 1994",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kim Kardashian", "Kanye West"],
+            "reason_famous": "Daughter of celebrity couple Kim Kardashian and Kanye West.",
+            "fun_fact": "North has often been in the spotlight and has appeared at various high-profile events with her famous parents. She is known for her fashion sense and her confidence at a young age."
          },
          {
-            "name": "Miley Cyrus", 
-            "birth_date": "November 23, 1994"
+            "name": "Miley Cyrus",
+            "gender": "Female",
+            "birth_date": "November 23, 1994",
+            "birth_place": "Franklin, Tennessee, USA",
+            "parents": ["Billy Ray Cyrus", "Tish Cyrus"],
+            "reason_famous": "Singer, songwriter, and actress, best known for her role in Disney's 'Hannah Montana' and for her music career.",
+            "fun_fact": "Miley is known for her evolving musical style, starting from country music to pop and rock, and her bold public persona."
          },
          {
-            "name": "Kendall Jenner", 
-            "birth_date": "May 3, 1994"
+            "name": "Kendall Jenner",
+            "gender": "Female",
+            "birth_date": "May 3, 1994",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kris Jenner", "Caitlyn Jenner"],
+            "reason_famous": "Model and media personality, known for being part of the Kardashian-Jenner family and for her career in high fashion modeling.",
+            "fun_fact": "Kendall is one of the highest-paid models in the world and has walked the runway for major fashion houses like Chanel, Versace, and Givenchy."
          },
          {
-            "name": "Justin Bieber", 
-            "birth_date": "March 1, 1994"
+            "name": "Justin Bieber",
+            "gender": "Male",
+            "birth_date": "March 1, 1994",
+            "birth_place": "London, Ontario, Canada",
+            "parents": ["Pattie Mallette", "Jeremy Bieber"],
+            "reason_famous": "Pop singer and songwriter, known for hits like 'Baby,' 'Sorry,' and 'Love Yourself.' He gained fame as a teenager through YouTube before signing with Usher.",
+            "fun_fact": "Justin Bieber's debut album 'My World' made him the first artist to have seven songs from a debut album chart on the Billboard Hot 100."
          },
          {
-            "name": "Harry Styles", 
-            "birth_date": "February 1, 1994"
+            "name": "Harry Styles",
+            "gender": "Male",
+            "birth_date": "February 1, 1994",
+            "birth_place": "Redditch, Worcestershire, England",
+            "parents": ["Anne Twist", "Desmond Styles"],
+            "reason_famous": "Singer, songwriter, and actor. He gained fame as a member of the boy band One Direction and later launched a successful solo career with hits like 'Sign of the Times' and 'Watermelon Sugar.'",
+            "fun_fact": "Harry Styles is known for his bold fashion choices, often breaking traditional gender norms with his outfits."
          },
          {
-            "name": "Kylie Jenner", 
-            "birth_date": "August 10, 1994"
+            "name": "Kylie Jenner",
+            "gender": "Female",
+            "birth_date": "August 10, 1994",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kris Jenner", "Caitlyn Jenner"],
+            "reason_famous": "Reality TV star, entrepreneur, and social media personality. She is known for her role on 'Keeping Up with the Kardashians' and founded the cosmetics brand Kylie Cosmetics.",
+            "fun_fact": "Kylie became the youngest self-made billionaire at the age of 21, according to Forbes, due to the success of her cosmetics brand."
          },
          {
-            "name": "Selena Gomez", 
-            "birth_date": "July 22, 1994"
+            "name": "Selena Gomez",
+            "gender": "Female",
+            "birth_date": "July 22, 1994",
+            "birth_place": "Grand Prairie, Texas, USA",
+            "parents": ["Mandy Teefey", "Ricardo Gomez"],
+            "reason_famous": "Singer, actress, and producer. Selena gained fame as a child star on Disney Channel's 'Wizards of Waverly Place' and has since built a successful music and film career.",
+            "fun_fact": "Selena Gomez is also known for her work as a producer, including producing the hit Netflix series '13 Reasons Why.'"
          },
          {
-            "name": "Demi Lovato", 
-            "birth_date": "August 20, 1994"
+            "name": "Demi Lovato",
+            "birth_date": "August 20, 1994",
+            "birth_place": "Albuquerque, New Mexico, USA",
+            "parents": ["Dianna De La Garza", "Patrick Lovato"],
+            "reason_famous": "Singer, songwriter, and actress. Demi gained fame with Disney Channel's 'Camp Rock' and later became a successful music artist.",
+            "fun_fact": "Demi Lovato is also an advocate for mental health and body positivity, sharing their personal journey to help others."
          },
          {
-            "name": "Zayn Malik", 
-            "birth_date": "January 12, 1994"
+            "name": "Zayn Malik",
+            "birth_date": "January 12, 1994",
+            "birth_place": "Bradford, West Yorkshire, England",
+            "parents": ["Yaser Malik", "Trisha Malik"],
+            "reason_famous": "Singer and former member of the boy band One Direction. Zayn left the group in 2015 to pursue a solo career.",
+            "fun_fact": "Zayn is known for his distinctive voice and has also ventured into fashion, collaborating with major brands."
          },
          {
-            "name": "Taylor Swift", 
-            "birth_date": "December 13, 1994"
+            "name": "Taylor Swift",
+            "birth_date": "December 13, 1994",
+            "birth_place": "Reading, Pennsylvania, USA",
+            "parents": ["Scott Swift", "Andrea Swift"],
+            "reason_famous": "Singer, songwriter, and music producer known for her narrative songwriting and for transitioning from country to pop music.",
+            "fun_fact": "Taylor Swift has won 12 Grammy Awards and is known for her philanthropic efforts and advocacy for artists' rights."
          }
       ],
       "1993": [
          {
-            "name": "Ariana Grande", 
-            "birth_date": "June 26, 1993"
+            "name": "Ariana Grande",
+            "birth_date": "June 26, 1993",
+            "birth_place": "Boca Raton, Florida, USA",
+            "parents": ["Joan Grande", "Edward Butera"],
+            "reason_famous": "Singer, songwriter, and actress known for her powerful vocals and successful pop career.",
+            "fun_fact": "Ariana Grande has a four-octave vocal range and started her career in theater before becoming a pop star."
+        },
+        {
+            "name": "Megan Thee Stallion",
+            "birth_date": "February 15, 1993",
+            "birth_place": "San Antonio, Texas, USA",
+            "parents": ["Holly Thomas"],
+            "reason_famous": "Rapper, singer, and songwriter known for her confident persona and hits like 'Savage' and 'WAP'.",
+            "fun_fact": "Megan Thee Stallion is a college graduate with a degree in health administration."
          },
          {
-            "name": "Megan Thee Stallion", 
-            "birth_date": "February 15, 1993"
+            "name": "Bella Hadid",
+            "birth_date": "October 9, 1993",
+            "birth_place": "Washington, D.C., USA",
+            "parents": ["Yasmin Sewell", "Mohamed Hadid"],
+            "reason_famous": "Model known for her work with top fashion brands and her presence on international runways.",
+            "fun_fact": "Bella Hadid was named 'Model of the Year' by the British Fashion Council in 2016."
          },
          {
-            "name": "Bella Hadid", 
-            "birth_date": "October 9, 1993"
+            "name": "Drake",
+            "birth_date": "October 24, 1993",
+            "birth_place": "Toronto, Ontario, Canada",
+            "parents": ["Sandi Graham", "Dennis Graham"],
+            "reason_famous": "Rapper, singer, and actor known for hits like 'Hotline Bling', 'God's Plan', and his influential role in modern hip hop and R&B.",
+            "fun_fact": "Drake initially gained fame as an actor on the teen drama series 'Degrassi: The Next Generation' before transitioning to music."
          },
          {
-            "name": "Drake", 
-            "birth_date": "October 24, 1993"
-         },
-         {
-            "name": "Nina Dobrev", 
-            "birth_date": "January 9, 1993"
+            "name": "Nina Dobrev",
+            "birth_date": "January 9, 1993",
+            "birth_place": "Sofia, Bulgaria",
+            "parents": ["Michalina Dobreva", "Kosta Dobrev"],
+            "reason_famous": "Actress known for her role as Elena Gilbert in the TV series 'The Vampire Diaries'.",
+            "fun_fact": "Nina Dobrev was born in Bulgaria and moved to Canada at a young age, where she began her acting career."
          },
          {
             "name": "Chloe Grace Moretz", 
