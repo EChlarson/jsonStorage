@@ -1719,192 +1719,363 @@
             "fun_fact": "Miley Cyrus is known for her wide vocal range and unique style, which blends country, pop, and rock elements."
          },
          {
-            "name": "Zayn Malik", 
-            "birth_date": "January 12, 1991"
+            "name": "Zayn Malik",
+            "gender": "Male",
+            "birth_date": "January 12, 1991",
+            "birth_place": "Bradford, West Yorkshire, England",
+            "parents": ["Yaser Malik", "Trisha Malik"],
+            "reason_famous": "Singer and former member of the boy band One Direction",
+            "fun_fact": "Zayn was the first member to leave One Direction to pursue a solo career in 2015."
          },
          {
-            "name": "Selena Gomez", 
-            "birth_date": "July 22, 1991"
+            "name": "Selena Gomez",
+            "gender": "Female",
+            "birth_date": "July 22, 1991",
+            "birth_place": "Grand Prairie, Texas, USA",
+            "parents": ["Ricardo Joel Gomez", "Mandy Teefey"],
+            "reason_famous": "Singer, actress, and producer; starred in Disney's 'Wizards of Waverly Place' and known for her music career.",
+            "fun_fact": "Selena is named after the famous Tejano singer Selena Quintanilla-Pérez."
          },
          {
-            "name": "Ariana Grande", 
-            "birth_date": "June 26, 1991"
+            "name": "Ariana Grande",
+            "gender": "Female",
+            "birth_date": "June 26, 1991",
+            "birth_place": "Boca Raton, Florida, USA",
+            "parents": ["Edward Butera", "Joan Grande"],
+            "reason_famous": "Singer, songwriter, and actress; known for her powerful vocals and hit songs like 'Thank U, Next' and '7 Rings.'",
+            "fun_fact": "She started her career on Nickelodeon’s 'Victorious' before becoming a pop superstar."
          },
          {
-            "name": "Lily Collins", 
-            "birth_date": "March 18, 1991"
+            "name": "Lily Collins",
+            "gender": "Female",
+            "birth_date": "March 18, 1991",
+            "birth_place": "Guildford, Surrey, England",
+            "parents": ["Phil Collins", "Jill Tavelman"],
+            "reason_famous": "Actress and model, known for roles in movies like 'Mirror Mirror' and the series 'Emily in Paris.'",
+            "fun_fact": "She is also a published author, having written a memoir titled 'Unfiltered: No Shame, No Regrets, Just Me.'"
          },
          {
-            "name": "Taylor Swift", 
-            "birth_date": "December 13, 1991"
+            "name": "Taylor Swift",
+            "gender": "Female",
+            "birth_date": "December 13, 1991",
+            "birth_place": "Reading, Pennsylvania, USA",
+            "parents": ["Scott Kingsley Swift", "Andrea Swift"],
+            "reason_famous": "Grammy-winning singer-songwriter known for hits like 'Love Story,' 'Shake It Off,' and 'Blank Space.'",
+            "fun_fact": "Taylor is known for leaving hidden messages in her album liner notes and has a fascination with the number 13, considering it her lucky number."
          }
       ],
       "1990": [
          {
-            "name": "Christina Aguilera", 
-            "birth_date": "December 18, 1990"
+            "name": "Christina Aguilera",
+            "gender": "Female",
+            "birth_date": "December 18, 1990",
+            "birth_place": "Staten Island, New York, USA",
+            "parents": ["Fausto Xavier Aguilera", "Shelly Loraine Fidler"],
+            "reason_famous": "Grammy-winning pop icon known for her powerful voice and hits like 'Genie in a Bottle' and 'Beautiful.'",
+            "fun_fact": "Christina Aguilera has been a coach on the reality singing competition show *The Voice* for multiple seasons."
          },
          {
-            "name": "Lindsay Lohan", 
-            "birth_date": "July 2, 1990"
+            "name": "Lindsay Lohan",
+            "gender": "Female",
+            "birth_date": "July 2, 1990",
+            "birth_place": "New York City, New York, USA",
+            "parents": ["Michael Lohan", "Dina Lohan"],
+            "reason_famous": "Actress and singer known for her roles in movies like *The Parent Trap*, *Mean Girls*, and *Freaky Friday.*",
+            "fun_fact": "Lindsay Lohan started modeling at the age of three before transitioning to acting."
          },
          {
-            "name": "Rihanna", 
-            "birth_date": "February 20, 1990"
+            "name": "Rihanna",
+            "gender": "Female",
+            "birth_date": "February 20, 1990",
+            "birth_place": "Saint Michael, Barbados",
+            "parents": ["Ronald Fenty", "Monica Fenty"],
+            "reason_famous": "Singer, actress, and entrepreneur known for her chart-topping hits like 'Umbrella,' 'Diamonds,' and her beauty brand, Fenty Beauty.",
+            "fun_fact": "Rihanna was discovered by a music producer while she was still in high school, leading to her first album being released at the age of 17."
          },
          {
-            "name": "Megan Fox", 
-            "birth_date": "May 16, 1990"
+            "name": "Megan Fox",
+            "gender": "Female",
+            "birth_date": "May 16, 1990",
+            "birth_place": "Oak Ridge, Tennessee, USA",
+            "parents": ["Franklin Thomas Fox", "Gloria Darlene Fox"],
+            "reason_famous": "Actress and model, best known for her role in the 'Transformers' film series.",
+            "fun_fact": "Megan Fox is also known for her tattoos, with several unique designs, including one that says 'We will all laugh at gilded butterflies' from Shakespeare's 'King Lear.'"
          },
          {
-            "name": "Emma Stone", 
-            "birth_date": "November 6, 1990"
+            "name": "Emma Stone",
+            "gender": "Female",
+            "birth_date": "November 6, 1990",
+            "birth_place": "Scottsdale, Arizona, USA",
+            "parents": ["Jeffrey Charles Stone", "Krista Jean Stone"],
+            "reason_famous": "Academy Award-winning actress known for her roles in 'La La Land,' 'Easy A,' and 'The Help.'",
+            "fun_fact": "Emma Stone was born with a different name – her original name was Emily Jean Stone, but she changed it to Emma after discovering that there was already an Emily Stone in the Actors Guild."
          },
          {
-            "name": "Nicki Minaj", 
-            "birth_date": "December 8, 1990"
+            "name": "Nicki Minaj",
+            "gender": "Female",
+            "birth_date": "December 8, 1990",
+            "birth_place": "Port of Spain, Trinidad and Tobago",
+            "parents": ["Robert Maraj", "Carol Maraj"],
+            "reason_famous": "Rapper, singer, and songwriter known for her bold personality and hits like 'Super Bass' and 'Anaconda.'",
+            "fun_fact": "Nicki Minaj's real name is Onika Tanya Maraj, and she originally wanted to be an actress before finding fame in music."
          },
          {
-            "name": "Lady Gaga", 
-            "birth_date": "March 28, 1990"
+            "name": "Lady Gaga",
+            "gender": "Female",
+            "birth_date": "March 28, 1990",
+            "birth_place": "New York City, New York, USA",
+            "parents": ["Joseph Germanotta", "Cynthia Germanotta"],
+            "reason_famous": "Singer, songwriter, and actress known for her bold fashion and hits like 'Poker Face' and 'Bad Romance.'",
+            "fun_fact": "Lady Gaga's real name is Stefani Joanne Angelina Germanotta, and she studied at the Tisch School of the Arts before pursuing music."
          },
          {
-            "name": "Carly Rae Jepsen", 
-            "birth_date": "November 21, 1990"
+            "name": "Carly Rae Jepsen",
+            "gender": "Female",
+            "birth_date": "November 21, 1990",
+            "birth_place": "Mission, British Columbia, Canada",
+            "parents": ["Alex Jepsen", "Luella Jepsen"],
+            "reason_famous": "Pop singer-songwriter known for her hit single 'Call Me Maybe.'",
+            "fun_fact": "Carly Rae Jepsen was a finalist on 'Canadian Idol' in 2007 before gaining worldwide fame with 'Call Me Maybe.'"
          },
          {
-            "name": "Katy Perry", 
-            "birth_date": "October 25, 1990"
+            "name": "Katy Perry",
+            "gender": "Female",
+            "birth_date": "October 25, 1990",
+            "birth_place": "Santa Barbara, California, USA",
+            "parents": ["Maurice Hudson", "Mary Perry"],
+            "reason_famous": "Pop singer known for hits like 'I Kissed a Girl' and 'Roar.'",
+            "fun_fact": "Katy Perry was originally a gospel singer before transitioning to pop music."
          },
          {
-            "name": "Jessica Alba", 
-            "birth_date": "April 28, 1990"
+            "name": "Jessica Alba",
+            "gender": "Female",
+            "birth_date": "April 28, 1990",
+            "birth_place": "Pomona, California, USA",
+            "parents": ["Catherine Jensen", "Mark Alba"],
+            "reason_famous": "Actress known for roles in 'Fantastic Four' and 'Sin City.'",
+            "fun_fact": "Jessica Alba co-founded The Honest Company, which sells eco-friendly baby products."
          }
       ],
       "1989": [
          {
-            "name": "Kesha", 
-            "birth_date": "March 1, 1989"
+            "name": "Kesha",
+            "gender": "Female",
+            "birth_date": "March 1, 1989",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Pebe Sebert", "Brad Sebert"],
+            "reason_famous": "Singer and songwriter, known for hits like 'Tik Tok' and 'Praying.'",
+            "fun_fact": "Kesha is known for her unique style and her outspoken personality, often advocating for self-empowerment."
          },
          {
-            "name": "Hayden Panettiere", 
-            "birth_date": "August 21, 1989"
+            "name": "Hayden Panettiere",
+            "gender": "Female",
+            "birth_date": "August 21, 1989",
+            "birth_place": "Palisades, New York, USA",
+            "parents": ["Lesley Vogel", "Alan Panettiere"],
+            "reason_famous": "Actress known for her roles in 'Heroes' and 'Nashville.'",
+            "fun_fact": "Hayden is also a passionate animal rights advocate and has supported various animal protection organizations."
          },
          {
-            "name": "Brendon Urie", 
-            "birth_date": "April 12, 1989"
+            "name": "Brendon Urie",
+            "gender": "Male",
+            "birth_date": "April 12, 1989",
+            "birth_place": "St. George, Utah, USA",
+            "parents": ["Grace Urie", "Darren Urie"],
+            "reason_famous": "Lead vocalist and frontman of the band Panic! At The Disco.",
+            "fun_fact": "Brendon is also a talented musician who plays multiple instruments, including guitar, bass, piano, and drums."
          },
          {
-            "name": "Leighton Meester", 
-            "birth_date": "April 9, 1989"
+            "name": "Leighton Meester",
+            "gender": "Female",
+            "birth_date": "April 9, 1989",
+            "birth_place": "Fort Worth, Texas, USA",
+            "parents": ["Constance Meester", "Douglas Meester"],
+            "reason_famous": "Actress and singer, best known for her role as Blair Waldorf on the TV series *Gossip Girl*.",
+            "fun_fact": "Leighton Meester was born while her mother was serving a prison sentence for drug trafficking."
          },
          {
-            "name": "Rihanna", 
-            "birth_date": "February 20, 1989"
+            "name": "Rihanna",
+            "gender": "Female",
+            "birth_date": "February 20, 1989",
+            "birth_place": "Saint Michael, Barbados",
+            "parents": ["Monica Fenty", "Ronald Fenty"],
+            "reason_famous": "Singer, actress, and entrepreneur, known for her groundbreaking music career and fashion brand, Fenty.",
+            "fun_fact": "Rihanna was the first black woman to head a luxury brand at LVMH (Louis Vuitton Moët Hennessy)."
          },
          {
-            "name": "Christina Aguilera", 
-            "birth_date": "December 18, 1989"
+            "name": "Christina Aguilera",
+            "gender": "Female",
+            "birth_date": "December 18, 1989",
+            "birth_place": "Staten Island, New York City, USA",
+            "parents": ["Shelley L. Kearns", "Fausto Aguilera"],
+            "reason_famous": "Singer, songwriter, and television personality, known for her powerful voice and hit songs like 'Genie in a Bottle' and 'Beautiful.'",
+            "fun_fact": "Christina Aguilera has a five-octave vocal range, which is rare for pop artists."
          },
          {
-            "name": "Sarah Hyland", 
-            "birth_date": "November 24, 1989"
+            "name": "Sarah Hyland",
+            "gender": "Female",
+            "birth_date": "November 24, 1989",
+            "birth_place": "New York City, New York, USA",
+            "parents": ["Melissa Canaday", "Edward James Hyland"],
+            "reason_famous": "Actress, known for her role as Haley Dunphy on the hit TV show 'Modern Family.'",
+            "fun_fact": "Sarah Hyland has undergone two kidney transplants due to a health condition called kidney dysplasia."
          },
          {
-            "name": "Nicki Minaj", 
-            "birth_date": "December 8, 1989"
+            "name": "Nicki Minaj",
+            "gender": "Female",
+            "birth_date": "December 8, 1989",
+            "birth_place": "Saint James, Trinidad and Tobago",
+            "parents": ["Robert Maraj", "Carol Maraj"],
+            "reason_famous": "Rapper, singer, and songwriter known for her colorful persona and hit songs like 'Super Bass' and 'Anaconda.'",
+            "fun_fact": "Nicki Minaj was the first woman to be included on MTV's Annual Hottest MC List."
          },
          {
-            "name": "Hayley Williams", 
-            "birth_date": "December 27, 1989"
+            "name": "Hayley Williams",
+            "gender": "Female",
+            "birth_date": "December 27, 1989",
+            "birth_place": "Meridian, Mississippi, USA",
+            "parents": ["Joanna Williams", "Cliff Williams"],
+            "reason_famous": "Lead singer of the rock band Paramore, known for her powerful vocals and hits like 'Misery Business' and 'Ain't It Fun.'",
+            "fun_fact": "Hayley Williams is also known for her colorful hair and bold fashion choices."
          },
          {
-            "name": "Megan Fox", 
-            "birth_date": "May 16, 1989"
+            "name": "Megan Fox",
+            "gender": "Female",
+            "birth_date": "May 16, 1989",
+            "birth_place": "Oak Ridge, Tennessee, USA",
+            "parents": ["Glenn Fox", "Beverly Fox"],
+            "reason_famous": "Known for her role as Mikaela Banes in the 'Transformers' movie series and her breakout performance in 'Jennifer's Body.'",
+            "fun_fact": "Megan Fox is known for her tattoos, which include a quote from Shakespeare and a portrait of Marilyn Monroe."
          }
       ],
       "1988": [
          {
-            "name": "Emma Watson", 
-            "birth_date": "April 15, 1988"
+            "name": "Emma Watson",
+            "gender": "Female",
+            "birth_date": "April 15, 1988",
+            "birth_place": "Paris, France",
+            "parents": ["Jacqueline Luesby", "Chris Watson"],
+            "reason_famous": "Famous for playing Hermione Granger in the 'Harry Potter' film series and her advocacy for gender equality.",
+            "fun_fact": "Emma Watson is also a UN Women Goodwill Ambassador and launched the HeForShe campaign to promote gender equality."
          },
          {
-            "name": "Kendall Jenner", 
-            "birth_date": "May 3, 1988"
+            "name": "Kendall Jenner",
+            "gender": "Female",
+            "birth_date": "May 3, 1988",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Kris Jenner", "Caitlyn Jenner"],
+            "reason_famous": "Known for being a supermodel and a member of the Kardashian-Jenner family.",
+            "fun_fact": "Kendall Jenner started her modeling career at the age of 14 and has walked for major designers like Chanel, Victoria's Secret, and Balmain."
          },
          {
-            "name": "Selena Gomez", 
-            "birth_date": "July 22, 1988"
+            "name": "Selena Gomez",
+            "gender": "Female",
+            "birth_date": "July 22, 1988",
+            "birth_place": "Grand Prairie, Texas, USA",
+            "parents": ["Mandy Teefey", "Ricardo Gomez"],
+            "reason_famous": "Known for her roles in Disney's 'Wizards of Waverly Place' and her music career as a solo artist and with the band Selena Gomez & the Scene.",
+            "fun_fact": "Selena Gomez is also a philanthropist, co-founding the charity 'Raise Hope for Congo' and being a UNICEF ambassador."
          },
          {
-            "name": "Kristen Stewart", 
-            "birth_date": "April 9, 1988"
+            "name": "Kristen Stewart",
+            "gender": "Female",
+            "birth_date": "April 9, 1988",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Jules Stewart", "John Stewart"],
+            "reason_famous": "Known for her role as Bella Swan in the 'Twilight' series and her acclaimed performances in independent films.",
+            "fun_fact": "Kristen Stewart is the first American actress to win a César Award, the French equivalent of an Academy Award."
          },
          {
-            "name": "Natalie Portman", 
-            "birth_date": "June 9, 1988"
+            "name": "Natalie Portman",
+            "gender": "Female",
+            "birth_date": "June 9, 1988",
+            "birth_place": "Jerusalem, Israel",
+            "parents": ["Avner Hershlag", "Shelly Hershlag"],
+            "reason_famous": "Academy Award-winning actress known for her roles in films like 'Black Swan,' 'V for Vendetta,' and the 'Star Wars' prequel trilogy.",
+            "fun_fact": "Natalie Portman is also a Harvard graduate with a degree in psychology."
          },
          {
-            "name": "Leighton Meester", 
-            "birth_date": "April 9, 1988"
+            "name": "Leighton Meester",
+            "gender": "Female",
+            "birth_date": "April 9, 1988",
+            "birth_place": "Fort Worth, Texas, USA",
+            "parents": ["Constance Meester", "Douglas Meester"],
+            "reason_famous": "Actress and singer known for her role as Blair Waldorf on the TV series 'Gossip Girl.'",
+            "fun_fact": "Leighton Meester was born while her mother was serving a prison sentence for drug trafficking."
          },
          {
-            "name": "Zayn Malik", 
-            "birth_date": "January 12, 1988"
+            "name": "Zayn Malik",
+            "gender": "Male",
+            "birth_date": "January 12, 1988",
+            "birth_place": "Bradford, West Yorkshire, England",
+            "parents": ["Yaser Malik", "Trisha Malik"],
+            "reason_famous": "Singer and former member of the boy band One Direction.",
+            "fun_fact": "Zayn was the first member to leave One Direction and has since pursued a successful solo career."
          },
          {
-            "name": "Blake Lively", 
-            "birth_date": "August 25, 1988"
+            "name": "Blake Lively",
+            "gender": "Female",
+            "birth_date": "August 25, 1988",
+            "birth_place": "Los Angeles, California, USA",
+            "parents": ["Ernie Lively", "Elaine Lively"],
+            "reason_famous": "Actress known for her role as Serena van der Woodsen on 'Gossip Girl' and her career in film.",
+            "fun_fact": "Blake Lively is married to actor Ryan Reynolds, and they have several children together."
          },
          {
-            "name": "Lady Gaga", 
-            "birth_date": "March 28, 1988"
+            "name": "Lady Gaga",
+            "gender": "Female",
+            "birth_date": "March 28, 1988",
+            "birth_place": "New York City, New York, USA",
+            "parents": ["Cynthia Germanotta", "Joseph Germanotta"],
+            "reason_famous": "Singer, songwriter, and actress known for her unique style and hits like 'Poker Face' and 'Bad Romance.'",
+            "fun_fact": "Lady Gaga is also known for her philanthropy, especially in supporting mental health awareness and LGBTQ+ rights."
          },
          {
-            "name": "Rihanna", 
-            "birth_date": "February 20, 1988"
+            "name": "Rihanna",
+            "gender": "Female",
+            "birth_date": "February 20, 1988",
+            "birth_place": "Saint Michael, Barbados",
+            "parents": ["Monica Fenty", "Ronald Fenty"],
+            "reason_famous": "Singer, songwriter, and businesswoman known for her music career and successful Fenty brand.",
+            "fun_fact": "Rihanna is the first woman to build an annual net worth of over $1 billion through her music and Fenty Beauty empire."
          }
       ],
       "1987": [
          {
-            "name": "Katy Perry", 
-            "birth_date": "October 25, 1987"
+            "name": "Kerry Washington",
+            "gender": "Female",
+            "birth_date": "January 31, 1987",
+            "birth_place": "The Bronx, New York, USA",
+            "parents": ["Earl Washington Jr.", "Valerie Washington"],
+            "reason_famous": "Actress known for her role as Olivia Pope in the TV series 'Scandal'.",
+            "fun_fact": "Kerry Washington made history by becoming the first African American woman to win the Emmy for Outstanding Lead Actress in a Drama Series."
          },
          {
-            "name": "Miley Cyrus", 
-            "birth_date": "November 23, 1987"
+            "name": "Brendon Urie",
+            "gender": "Male",
+            "birth_date": "April 12, 1987",
+            "birth_place": "St. George, Utah, USA",
+            "parents": ["Sarah Urie", "Donald Urie"],
+            "reason_famous": "Lead singer of the band Panic! At The Disco.",
+            "fun_fact": "Brendon Urie is known for his wide vocal range and has been described as having a voice that spans four octaves."
          },
          {
-            "name": "Kerry Washington", 
-            "birth_date": "January 31, 1987"
+            "name": "Leighton Meester",
+            "gender": "Female",
+            "birth_date": "April 9, 1987",
+            "birth_place": "Fort Worth, Texas, USA",
+            "parents": ["Constance Meester", "Douglas Meester"],
+            "reason_famous": "Actress best known for her role as Blair Waldorf on the TV series 'Gossip Girl'.",
+            "fun_fact": "Leighton Meester was born while her mother was serving a sentence in a federal prison."
          },
          {
-            "name": "Emma Stone", 
-            "birth_date": "November 6, 1987"
-         },
-         {
-            "name": "Ariana Grande", 
-            "birth_date": "June 26, 1987"
-         },
-         {
-            "name": "Brendon Urie", 
-            "birth_date": "April 12, 1987"
-         },
-         {
-            "name": "Leighton Meester", 
-            "birth_date": "April 9, 1987"
-         },
-         {
-            "name": "Kendall Jenner", 
-            "birth_date": "May 3, 1987"
-         },
-         {
-            "name": "Nicki Minaj", 
-            "birth_date": "December 8, 1987"
-         },
-         {
-            "name": "Beyoncé", 
-            "birth_date": "September 4, 1987"
+            "name": "Nicki Minaj",
+            "gender": "Female",
+            "birth_date": "December 8, 1987",
+            "birth_place": "Saint James, Trinidad and Tobago",
+            "parents": ["Caroline Maraj", "Robert Maraj"],
+            "reason_famous": "Rapper, singer, and songwriter known for her bold persona and chart-topping hits.",
+            "fun_fact": "Nicki Minaj's real name is Onika Tanya Maraj, and she originally started her career as a voice actress before becoming a rapper."
          }
       ],
       "1986": [
