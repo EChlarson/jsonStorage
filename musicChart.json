@@ -7,14 +7,15 @@
             "artist": "Sabrina Carpenter",
             "genre": "Pop",
             "album": "Sipping Melodies",
-            "releaseDate": "2024-02-15",
-            "coverImage": "https://coverartarchive.org/release-group/faa3efa0-150a-4394-ae76-a9ddfa13424e/front",
-            "link": "https://musicbrainz.org/release-group/faa3efa0-150a-4394-ae76-a9ddfa13424e"
+            "releaseDate": "2024-02-15"
          },
          { 
             "rank": 2, 
             "title": "Not Like Us", 
-            "artist": "Kendrick Lamar" 
+            "artist": "Kendrick Lamar",
+            "genre": "",
+            "album": "Not Like Us",
+            "releaseDate": ""
          },
          { 
             "rank": 3, 
