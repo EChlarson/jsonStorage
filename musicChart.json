@@ -1255,373 +1255,586 @@
       ],
       "2000": [
          { 
-            "rank": 1, 
-            "title": "Breathe", 
-            "artist": "Faith Hill" 
+            "rank": 1,
+            "title": "Breathe",
+            "artist": "Faith Hill",
+            "genre": "Country",
+            "album": "Breathe",
+            "releaseDate": "1999-11-09"
          },
          { 
-            "rank": 2, 
-            "title": "Smooth", 
-            "artist": "Santana ft. Rob Thomas" 
+            "rank": 2,
+            "title": "Smooth",
+            "artist": "Santana ft. Rob Thomas",
+            "genre": "Rock",
+            "album": "Supernatural",
+            "releaseDate": "1999-06-29"
          },
          { 
-            "rank": 3, 
-            "title": "Bye Bye Bye", 
-            "artist": "NSYNC" 
+            "rank": 3,
+            "title": "Bye Bye Bye",
+            "artist": "NSYNC",
+            "genre": "Pop",
+            "album": "No Strings Attached",
+            "releaseDate": "2000-01-11"
          },
          { 
-            "rank": 4, 
-            "title": "I Knew I Loved You", 
-            "artist": "Savage Garden" 
+            "rank": 4,
+            "title": "I Knew I Loved You",
+            "artist": "Savage Garden",
+            "genre": "Pop",
+            "album": "Affirmation",
+            "releaseDate": "1999-09-28"
          },
          { 
-            "rank": 5, 
-            "title": "It Wasn't Me", 
-            "artist": "Shaggy ft. RikRok" 
+            "rank": 5,
+            "title": "It Wasn't Me",
+            "artist": "Shaggy ft. RikRok",
+            "genre": "Reggae Fusion",
+            "album": "Hot Shot",
+            "releaseDate": "2000-09-15"
          },
          { 
-            "rank": 6, 
-            "title": "I Want It That Way", 
-            "artist": "Backstreet Boys" 
+            "rank": 6,
+            "title": "I Want It That Way",
+            "artist": "Backstreet Boys",
+            "genre": "Pop",
+            "album": "Millennium",
+            "releaseDate": "1999-04-12"
          },
          { 
-            "rank": 7, 
-            "title": "Say My Name", 
-            "artist": "Destiny's Child" 
+            "rank": 7,
+            "title": "Say My Name",
+            "artist": "Destiny's Child",
+            "genre": "R&B",
+            "album": "The Writing's on the Wall",
+            "releaseDate": "1999-11-07"
          },
          { 
-            "rank": 8, 
-            "title": "Thong Song", 
-            "artist": "Sisqó" 
+            "rank": 8,
+            "title": "Thong Song",
+            "artist": "Sisqó",
+            "genre": "R&B",
+            "album": "Unleash the Dragon",
+            "releaseDate": "1999-12-07"
          },
          { 
-            "rank": 9, 
-            "title": "Smooth Criminal", 
-            "artist": "Alien Ant Farm" 
+            "rank": 9,
+            "title": "Smooth Criminal",
+            "artist": "Alien Ant Farm",
+            "genre": "Rock",
+            "album": "Anthology",
+            "releaseDate": "2001-03-12"
          },
          { 
-            "rank": 10, 
-            "title": "Don't Call Me Baby", 
-            "artist": "Madison Avenue" 
+            "rank": 10,
+            "title": "Don't Call Me Baby",
+            "artist": "Madison Avenue",
+            "genre": "Dance",
+            "album": "The Polyester Embassy",
+            "releaseDate": "1999-08-01"
          }
       ],
       "1999": [
          { 
-            "rank": 1, 
-            "title": "Believe", 
-            "artist": "Cher" 
+            "rank": 1,
+            "title": "Believe",
+            "artist": "Cher",
+            "genre": "Pop",
+            "album": "Believe",
+            "releaseDate": "1998-10-19"
          },
          { 
-            "rank": 2, 
-            "title": "No Scrubs", 
-            "artist": "TLC" 
+            "rank": 2,
+            "title": "No Scrubs",
+            "artist": "TLC",
+            "genre": "R&B",
+            "album": "FanMail",
+            "releaseDate": "1999-01-01" 
          },
          { 
-            "rank": 3, 
-            "title": "Livin' la Vida Loca", 
-            "artist": "Ricky Martin" 
+            "rank": 3,
+            "title": "Livin' la Vida Loca",
+            "artist": "Ricky Martin",
+            "genre": "Pop",
+            "album": "Ricky Martin",
+            "releaseDate": "1999-03-23"
          },
          { 
-            "rank": 4, 
-            "title": "I Want It That Way", 
-            "artist": "Backstreet Boys" 
+            "rank": 4,
+            "title": "I Want It That Way",
+            "artist": "Backstreet Boys",
+            "genre": "Pop",
+            "album": "Millennium",
+            "releaseDate": "1999-04-12" 
          },
          { 
-            "rank": 5, 
-            "title": "Mambo No. 5 (A Little Bit of...)", 
-            "artist": "Lou Bega" 
+            "rank": 5,
+            "title": "Mambo No. 5 (A Little Bit of...)",
+            "artist": "Lou Bega",
+            "genre": "Latin Pop",
+            "album": "A Little Bit of Mambo",
+            "releaseDate": "1999-05-04"
          },
          { 
-            "rank": 6, 
-            "title": "Genie in a Bottle", 
-            "artist": "Christina Aguilera" 
+            "rank": 6,
+            "title": "Genie in a Bottle",
+            "artist": "Christina Aguilera",
+            "genre": "Pop",
+            "album": "Christina Aguilera",
+            "releaseDate": "1999-06-22"
          },
          { 
-            "rank": 7, 
-            "title": "Smooth", 
-            "artist": "Santana ft. Rob Thomas" 
+            "rank": 7,
+            "title": "Smooth",
+            "artist": "Santana ft. Rob Thomas",
+            "genre": "Rock",
+            "album": "Supernatural",
+            "releaseDate": "1999-06-29"
          },
          { 
-            "rank": 8, 
-            "title": "If You Had My Love", 
-            "artist": "Jennifer Lopez" 
+            "rank": 8,
+            "title": "If You Had My Love",
+            "artist": "Jennifer Lopez",
+            "genre": "Pop",
+            "album": "On the 6",
+            "releaseDate": "1999-05-04"
          },
          { 
-            "rank": 9, 
+            "rank": 9,
             "title": "My Name Is",
-            "artist": "Eminem" 
+            "artist": "Eminem",
+            "genre": "Hip-Hop",
+            "album": "The Slim Shady LP",
+            "releaseDate": "1999-02-23"
          },
          { 
-            "rank": 10, 
-            "title": "Heartbreaker", 
-            "artist": "Jay-Z ft. Mariah Carey" 
+            "rank": 10,
+            "title": "Heartbreaker",
+            "artist": "Jay-Z ft. Mariah Carey",
+            "genre": "Hip-Hop/Rap",
+            "album": "Vol. 3... Life and Times of S. Carter",
+            "releaseDate": "1999-09-28"
          }
       ],
       "1998": [
          { 
-            "rank": 1, 
-            "title": "The Boy Is Mine", 
-            "artist": "Brandy & Monica" 
+            "rank": 1,
+            "title": "The Boy Is Mine",
+            "artist": "Brandy & Monica",
+            "genre": "R&B",
+            "album": "Never Say Never",
+            "releaseDate": "1998-04-27"
          },
          { 
-            "rank": 2, 
-            "title": "Too Close", 
-            "artist": "Next" 
+            "rank": 2,
+            "title": "Too Close",
+            "artist": "Next",
+            "genre": "R&B",
+            "album": "Rated Next",
+            "releaseDate": "1997-09-15"
          },
          { 
-            "rank": 3, 
-            "title": "I Don't Want to Miss a Thing", 
-            "artist": "Aerosmith" 
+            "rank": 3,
+            "title": "I Don't Want to Miss a Thing",
+            "artist": "Aerosmith",
+            "genre": "Rock",
+            "album": "Armageddon: The Album",
+            "releaseDate": "1998-08-23"
          },
          { 
-            "rank": 4, 
-            "title": "Gettin' Jiggy wit It", 
-            "artist": "Will Smith" 
+            "rank": 4,
+            "title": "Gettin' Jiggy wit It",
+            "artist": "Will Smith",
+            "genre": "Hip-Hop",
+            "album": "Big Willie Style",
+            "releaseDate": "1997-10-07"
          },
          { 
-            "rank": 5, 
-            "title": "All My Life", 
-            "artist": "K-Ci & JoJo" 
+            "rank": 5,
+            "title": "All My Life",
+            "artist": "K-Ci & JoJo",
+            "genre": "R&B",
+            "album": "Love Always",
+            "releaseDate": "1997-08-26"
          },
          { 
-            "rank": 6, 
-            "title": "Together Again", 
-            "artist": "Janet Jackson" 
+            "rank": 6,
+            "title": "Together Again",
+            "artist": "Janet Jackson",
+            "genre": "Pop",
+            "album": "The Velvet Rope",
+            "releaseDate": "1997-11-03"
          },
          { 
-            "rank": 7, 
-            "title": "You're Still the One", 
-            "artist": "Shania Twain" 
+            "rank": 7,
+            "title": "You're Still the One",
+            "artist": "Shania Twain",
+            "genre": "Country Pop",
+            "album": "Come On Over",
+            "releaseDate": "1998-01-27"
          },
          { 
-            "rank": 8, 
-            "title": "The Power of Love", 
-            "artist": "Celine Dion" 
+            "rank": 8,
+            "title": "The Power of Love",
+            "artist": "Celine Dion",
+            "genre": "Pop",
+            "album": "The Colour of My Love",
+            "releaseDate": "1993-11-09"
          },
          { 
-            "rank": 9, 
-            "title": "Doo Wop (That Thing)", 
-            "artist": "Lauryn Hill" 
+            "rank": 9,
+            "title": "Doo Wop (That Thing)",
+            "artist": "Lauryn Hill",
+            "genre": "Hip-Hop/Soul",
+            "album": "The Miseducation of Lauryn Hill",
+            "releaseDate": "1998-08-25"
          },
          { 
-            "rank": 10, 
-            "title": "Torn", 
-            "artist": "Natalie Imbruglia" 
+            "rank": 10,
+            "title": "Torn",
+            "artist": "Natalie Imbruglia",
+            "genre": "Pop Rock",
+            "album": "Left of the Middle",
+            "releaseDate": "1997-09-29"
          }
       ],
       "1997": [
          { 
-            "rank": 1, 
-            "title": "Something About the Way You Look Tonight", 
-            "artist": "Elton John" 
+            "rank": 1,
+            "title": "Something About the Way You Look Tonight",
+            "artist": "Elton John",
+            "genre": "Pop",
+            "album": "The Big Picture",
+            "releaseDate": "1997-03-03"
          },
          { 
-            "rank": 2, 
-            "title": "I Will Always Love You", 
-            "artist": "Whitney Houston" 
+            "rank": 2,
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop/R&B",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "releaseDate": "1992-11-03"
          },
          { 
-            "rank": 3, 
-            "title": "Candle in the Wind 1997", 
-            "artist": "Elton John" 
+            "rank": 3,
+            "title": "Candle in the Wind 1997",
+            "artist": "Elton John",
+            "genre": "Pop",
+            "album": "The Big Picture",
+            "releaseDate": "1997-09-13"
          },
          { 
-            "rank": 4, 
-            "title": "Foolish Games", 
-            "artist": "Jewel" 
+            "rank": 4,
+            "title": "Foolish Games",
+            "artist": "Jewel",
+            "genre": "Pop Rock",
+            "album": "Pieces of You",
+            "releaseDate": "1997-05-12"
          },
          { 
-            "rank": 5, 
-            "title": "I'll Be Missing You", 
-            "artist": "P. Diddy ft. Faith Evans & 112" 
+            "rank": 5,
+            "title": "I'll Be Missing You",
+            "artist": "P. Diddy ft. Faith Evans & 112",
+            "genre": "Hip-Hop/Rap",
+            "album": "No Way Out",
+            "releaseDate": "1997-05-19"
          },
          { 
-            "rank": 6, 
-            "title": "Wannabe", 
-            "artist": "Spice Girls" 
+            "rank": 6,
+            "title": "Wannabe",
+            "artist": "Spice Girls",
+            "genre": "Pop",
+            "album": "Spice",
+            "releaseDate": "1996-07-08"
          },
          { 
-            "rank": 7, 
+            "rank": 7,
             "title": "MMMBop",
-            "artist": "Hanson" 
+            "artist": "Hanson",
+            "genre": "Pop",
+            "album": "Middle of Nowhere",
+            "releaseDate": "1997-04-15"
          },
          { 
-            "rank": 8, 
-            "title": "Un-Break My Heart", 
-            "artist": "Toni Braxton" 
+            "rank": 8,
+            "title": "Un-Break My Heart",
+            "artist": "Toni Braxton",
+            "genre": "R&B",
+            "album": "Secrets",
+            "releaseDate": "1996-08-27"
          },
          { 
-            "rank": 9, 
-            "title": "Bitter Sweet Symphony", 
-            "artist": "The Verve" 
+            "rank": 9,
+            "title": "Bitter Sweet Symphony",
+            "artist": "The Verve",
+            "genre": "Alternative Rock",
+            "album": "Urban Hymns",
+            "releaseDate": "1997-06-16"
          },
          { 
-            "rank": 10, 
-            "title": "No Scrubs", 
-            "artist": "TLC" 
+            "rank": 10,
+            "title": "No Scrubs",
+            "artist": "TLC",
+            "genre": "R&B",
+            "album": "FanMail",
+            "releaseDate": "1999-02-23"
          }
       ],
       "1996": [
          { 
-            "rank": 1, 
-            "title": "Macarena (Bayside Boys Remix)", 
-            "artist": "Los Del Rio" 
+            "rank": 1,
+            "title": "Macarena (Bayside Boys Remix)",
+            "artist": "Los Del Rio",
+            "genre": "Latin Pop",
+            "album": "A Mi Me Gusta",
+            "releaseDate": "1995-05-01"
          },
          { 
-            "rank": 2, 
-            "title": "Because You Loved Me", 
-            "artist": "Celine Dion" 
+            "rank": 2,
+            "title": "Because You Loved Me",
+            "artist": "Celine Dion",
+            "genre": "Pop",
+            "album": "Falling Into You",
+            "releaseDate": "1996-02-12"
          },
          { 
-            "rank": 3, 
-            "title": "Ironic", 
-            "artist": "Alanis Morissette" 
+            "rank": 3,
+            "title": "Ironic",
+            "artist": "Alanis Morissette",
+            "genre": "Alternative Rock",
+            "album": "Jagged Little Pill",
+            "releaseDate": "1996-02-13"
          },
          { 
-            "rank": 4, 
-            "title": "Tha Crossroads", 
-            "artist": "Bone Thugs-n-Harmony" 
+            "rank": 4,
+            "title": "Tha Crossroads",
+            "artist": "Bone Thugs-n-Harmony",
+            "genre": "Hip Hop",
+            "album": "E. 1999 Eternal",
+            "releaseDate": "1996-05-21"
          },
          { 
-            "rank": 5, 
-            "title": "I Can't Sleep Baby (If I)" , 
-            "artist": "R. Kelly" 
+            "rank": 5,
+            "title": "I Can't Sleep Baby (If I)",
+            "artist": "R. Kelly",
+            "genre": "R&B",
+            "album": "R. Kelly",
+            "releaseDate": "1995-11-07" 
          },
          { 
-            "rank": 6, 
-            "title": "Twisted", 
-            "artist": "Keith Sweat" 
+            "rank": 6,
+            "title": "Twisted",
+            "artist": "Keith Sweat",
+            "genre": "R&B",
+            "album": "Keith Sweat",
+            "releaseDate": "1996-10-29"
          },
          { 
-            "rank": 7, 
-            "title": "Nobody Knows", 
-            "artist": "The Tony Rich Project" 
+            "rank": 7,
+            "title": "Nobody Knows",
+            "artist": "The Tony Rich Project",
+            "genre": "R&B",
+            "album": "Words",
+            "releaseDate": "1996-08-12"
          },
          { 
-            "rank": 8, 
-            "title": "Give Me One Reason", 
-            "artist": "Tracy Chapman" 
+            "rank": 8,
+            "title": "Give Me One Reason",
+            "artist": "Tracy Chapman",
+            "genre": "Blues Rock",
+            "album": "New Beginning",
+            "releaseDate": "1995-09-04"
          },
          { 
-            "rank": 9, 
-            "title": "You're Makin' Me High", 
-            "artist": "Toni Braxton" 
+            "rank": 9,
+            "title": "You're Makin' Me High",
+            "artist": "Toni Braxton",
+            "genre": "R&B",
+            "album": "Secrets",
+            "releaseDate": "1996-06-18"
          },
          { 
-            "rank": 10, 
-            "title": "Don't Speak", 
-            "artist": "No Doubt" 
+            "rank": 10,
+            "title": "Don't Speak",
+            "artist": "No Doubt",
+            "genre": "Rock",
+            "album": "Tragic Kingdom",
+            "releaseDate": "1996-10-21"
          }
       ],
       "1995": [
          { 
-            "rank": 1, 
-            "title": "Gangsta's Paradise", 
-            "artist": "Coolio" 
+            "rank": 1,
+            "title": "Gangsta's Paradise",
+            "artist": "Coolio",
+            "genre": "Hip Hop",
+            "album": "Gangsta's Paradise",
+            "releaseDate": "1995-08-08"
          },
          { 
-            "rank": 2, 
-            "title": "Waterfalls", 
-            "artist": "TLC" 
+            "rank": 2,
+            "title": "Waterfalls",
+            "artist": "TLC",
+            "genre": "R&B",
+            "album": "CrazySexyCool",
+            "releaseDate": "1994-05-29"
          },
          { 
-            "rank": 3, 
-            "title": "Kiss from a Rose", 
-            "artist": "Seal" 
+            "rank": 3,
+            "title": "Kiss from a Rose",
+            "artist": "Seal",
+            "genre": "Pop/Soul",
+            "album": "Seal II",
+            "releaseDate": "1994-07-29"
          },
          { 
-            "rank": 4, 
-            "title": "On Bended Knee", 
-            "artist": "Boyz II Men" 
+            "rank": 4,
+            "title": "On Bended Knee",
+            "artist": "Boyz II Men",
+            "genre": "R&B",
+            "album": "II",
+            "releaseDate": "1994-10-03"
          },
          { 
-            "rank": 5, 
-            "title": "Take a Bow", 
-            "artist": "Madonna" 
+            "rank": 5,
+            "title": "Take a Bow",
+            "artist": "Madonna",
+            "genre": "Pop",
+            "album": "Bedtime Stories",
+            "releaseDate": "1994-02-28" 
          },
          { 
-            "rank": 6, 
-            "title": "I Wish", 
-            "artist": "Skee-Lo" 
+            "rank": 6,
+            "title": "I Wish",
+            "artist": "Skee-Lo",
+            "genre": "Hip Hop",
+            "album": "I Wish",
+            "releaseDate": "1995-05-09"
          },
          { 
-            "rank": 7, 
-            "title": "This Is How We Do It", 
-            "artist": "Montell Jordan" 
+            "rank": 7,
+            "title": "This Is How We Do It",
+            "artist": "Montell Jordan",
+            "genre": "R&B",
+            "album": "This Is How We Do It",
+            "releaseDate": "1995-02-28" 
          },
          { 
-            "rank": 8, 
-            "title": "Fantasy", 
-            "artist": "Mariah Carey" 
+            "rank": 8,
+            "title": "Fantasy",
+            "artist": "Mariah Carey",
+            "genre": "Pop",
+            "album": "Daydream",
+            "releaseDate": "1995-08-23"
          },
          { 
-            "rank": 9, 
-            "title": "Don't Take It Personal (Just One of Dem Days)", 
-            "artist": "Monica" 
+            "rank": 9,
+            "title": "Don't Take It Personal (Just One of Dem Days)",
+            "artist": "Monica",
+            "genre": "R&B",
+            "album": "Miss Thang",
+            "releaseDate": "1995-04-18"
          },
          { 
-            "rank": 10, 
-            "title": "You Are Not Alone", 
-            "artist": "Michael Jackson" 
+            "rank": 10,
+            "title": "You Are Not Alone",
+            "artist": "Michael Jackson",
+            "genre": "Pop",
+            "album": "HIStory: Past, Present and Future, Book I",
+            "releaseDate": "1995-08-15"
          }
       ],
       "1994": [
          { 
-            "rank": 1, 
-            "title": "The Sign", 
-            "artist": "Ace of Base" 
+            "rank": 1,
+            "title": "The Sign",
+            "artist": "Ace of Base",
+            "genre": "Pop",
+            "album": "Happy Nation",
+            "releaseDate": "1992-11-23"
          },
          { 
-            "rank": 2, 
-            "title": "I Will Always Love You", 
-            "artist": "Whitney Houston" 
+            "rank": 2,
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop, R&B",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "releaseDate": "1992-11-03"
          },
          { 
-            "rank": 3, 
-            "title": "I'll Make Love to You", 
-            "artist": "Boyz II Men" 
+            "rank": 3,
+            "title": "I'll Make Love to You",
+            "artist": "Boyz II Men",
+            "genre": "R&B",
+            "album": "II",
+            "releaseDate": "1994-06-13"
          },
          { 
-            "rank": 4, 
-            "title": "Stay (I Missed You)", 
-            "artist": "Lisa Loeb & Nine Stories" 
+            "rank": 4,
+            "title": "Stay (I Missed You)",
+            "artist": "Lisa Loeb & Nine Stories",
+            "genre": "Alternative Rock",
+            "album": "Tails",
+            "releaseDate": "1994-04-26"
          },
          { 
-            "rank": 5, 
-            "title": "All I Wanna Do", 
-            "artist": "Sheryl Crow" 
+            "rank": 5,
+            "title": "All I Wanna Do",
+            "artist": "Sheryl Crow",
+            "genre": "Rock",
+            "album": "Tuesday Music Club",
+            "releaseDate": "1993-06-29"
          },
          { 
-            "rank": 6, 
-            "title": "Bump N' Grind", 
-            "artist": "R. Kelly" 
+            "rank": 6,
+            "title": "Bump N' Grind",
+            "artist": "R. Kelly",
+            "genre": "R&B",
+            "album": "12 Play",
+            "releaseDate": "1993-11-09"
          },
          { 
-            "rank": 7, 
-            "title": "The Power of Love", 
-            "artist": "Celine Dion" 
+            "rank": 7,
+            "title": "The Power of Love",
+            "artist": "Celine Dion",
+            "genre": "Pop",
+            "album": "The Power of Love",
+            "releaseDate": "1993-11-08" 
          },
          { 
-            "rank": 8, 
-            "title": "I Swear", 
-            "artist": "All-4-One" 
+            "rank": 8,
+            "title": "I Swear",
+            "artist": "All-4-One",
+            "genre": "R&B",
+            "album": "All-4-One",
+            "releaseDate": "1994-02-15"
          },
          { 
-            "rank": 9, 
-            "title": "Don't Take the Girl", 
-            "artist": "Tim McGraw" 
+            "rank": 9,
+            "title": "Don't Take the Girl",
+            "artist": "Tim McGraw",
+            "genre": "Country",
+            "album": "Not a Moment Too Soon",
+            "releaseDate": "1994-02-07"
          },
          { 
-            "rank": 10, 
-            "title": "I'll Be There", 
-            "artist": "The Jackson 5" 
+            "rank": 10,
+            "title": "I'll Be There",
+            "artist": "The Jackson 5",
+            "genre": "Pop, Soul",
+            "album": "Third Album",
+            "releaseDate": "1970-09-08"
          }
       ],
       "1993": [
          { 
-            "rank": 1, 
-            "title": "I Will Always Love You", 
-            "artist": "Whitney Houston" 
+            "rank": 1,
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop, R&B, Soul",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "releaseDate": "1992-11-03"
          },
          { 
             "rank": 2, 
