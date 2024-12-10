@@ -1837,361 +1837,567 @@
             "releaseDate": "1992-11-03"
          },
          { 
-            "rank": 2, 
-            "title": "That's the Way Love Goes", 
-            "artist": "Janet Jackson" 
+            "rank": 2,
+            "title": "That's the Way Love Goes",
+            "artist": "Janet Jackson",
+            "genre": "R&B, Pop",
+            "album": "janet.",
+            "releaseDate": "1993-04-20"
          },
          { 
-            "rank": 3, 
-            "title": "Dreamlover", 
-            "artist": "Mariah Carey" 
+            "rank": 3,
+            "title": "Dreamlover",
+            "artist": "Mariah Carey",
+            "genre": "Pop, R&B",
+            "album": "Music Box",
+            "releaseDate": "1993-07-27"
          },
          { 
-            "rank": 4, 
-            "title": "Whoomp! (There It Is)", 
-            "artist": "Tag Team" 
+            "rank": 4,
+            "title": "Whoomp! (There It Is)",
+            "artist": "Tag Team",
+            "genre": "Hip Hop, Party Rap",
+            "album": "Whoomp! (There It Is)",
+            "releaseDate": "1993-05-07"
          },
          { 
             "rank": 5,
-            "title": "Weak", 
-            "artist": "SWV" 
+            "title": "Weak",
+            "artist": "SWV",
+            "genre": "R&B, Soul",
+            "album": "It's About Time",
+            "releaseDate": "1992-10-27"
          },
          { 
-            "rank": 6, 
-            "title": "Mr. Wendal", 
-            "artist": "Arrested Development" 
+            "rank": 6,
+            "title": "Mr. Wendal",
+            "artist": "Arrested Development",
+            "genre": "Hip-Hop, Conscious Rap",
+            "album": "3 Years, 5 Months and 2 Days in the Life Of...",
+            "releaseDate": "1992-11-03"
          },
          { 
-            "rank": 7, 
-            "title": "Informer", 
-            "artist": "Snow" 
+            "rank": 7,
+            "title": "Informer",
+            "artist": "Snow",
+            "genre": "Reggae Fusion, Dancehall",
+            "album": "12 Inches of Snow",
+            "releaseDate": "1992-11-10" 
          },
          { 
-            "rank": 8, 
-            "title": "I Don't Wanna Fight", 
-            "artist": "Tina Turner" 
+            "rank": 8,
+            "title": "I Don't Wanna Fight",
+            "artist": "Tina Turner",
+            "genre": "Pop, Soul",
+            "album": "What's Love Got to Do with It (Soundtrack)",
+            "releaseDate": "1993-05-29"
          },
          { 
-            "rank": 9, 
-            "title": "Can't Help Falling in Love", 
-            "artist": "UB40" 
+            "rank": 9,
+            "title": "Can't Help Falling in Love",
+            "artist": "UB40",
+            "genre": "Reggae, Pop",
+            "album": "Promises and Lies",
+            "releaseDate": "1993-05-10"
          },
          { 
-            "rank": 10, 
-            "title": "Shoop", 
-            "artist": "Salt-N-Pepa" 
+            "rank": 10,
+            "title": "Shoop",
+            "artist": "Salt-N-Pepa",
+            "genre": "Hip Hop, Rap",
+            "album": "Very Necessary",
+            "releaseDate": "1993-09-21"
          }
       ],
       "1992": [
          { 
-            "rank": 1, 
-            "title": "End of the Road", 
-            "artist": "Boyz II Men" 
+            "rank": 1,
+            "title": "End of the Road",
+            "artist": "Boyz II Men",
+            "genre": "R&B, Soul",
+            "album": "Cooleyhighharmony",
+            "releaseDate": "1992-05-11"
          },
          { 
-            "rank": 2, 
-            "title": "Baby Got Back", 
-            "artist": "Sir Mix-A-Lot" 
+            "rank": 2,
+            "title": "Baby Got Back",
+            "artist": "Sir Mix-A-Lot",
+            "genre": "Hip Hop, Rap",
+            "album": "Mack Daddy",
+            "releaseDate": "1992-05-04"
          },
          { 
-            "rank": 3, 
-            "title": "I Will Always Love You", 
-            "artist": "Whitney Houston" 
+            "rank": 3,
+            "title": "I Will Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop, R&B, Soul",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "releaseDate": "1992-11-03" 
          },
          { 
-            "rank": 4, 
-            "title": "Jump", 
-            "artist": "Kris Kross" 
+            "rank": 4,
+            "title": "Jump",
+            "artist": "Kris Kross",
+            "genre": "Hip Hop",
+            "album": "Totally Krossed Out",
+            "releaseDate": "1992-01-28"
          },
          { 
-            "rank": 5, 
-            "title": "Black or White", 
-            "artist": "Michael Jackson" 
+            "rank": 5,
+            "title": "Black or White",
+            "artist": "Michael Jackson",
+            "genre": "Pop, Rock, Dance",
+            "album": "Dangerous",
+            "releaseDate": "1991-11-13" 
          },
          { 
-            "rank": 6, 
-            "title": "Under the Bridge", 
-            "artist": "Red Hot Chili Peppers" 
+            "rank": 6,
+            "title": "Under the Bridge",
+            "artist": "Red Hot Chili Peppers",
+            "genre": "Alternative Rock, Funk Rock",
+            "album": "Blood Sugar Sex Magik",
+            "releaseDate": "1992-09-08"
          },
          { 
-            "rank": 7, 
-            "title": "My Lovin' (You're Never Gonna Get It)", 
-            "artist": "En Vogue" 
+            "rank": 7,
+            "title": "My Lovin' (You're Never Gonna Get It)",
+            "artist": "En Vogue",
+            "genre": "R&B, New Jack Swing",
+            "album": "Funky Divas",
+            "releaseDate": "1992-06-23"
          },
          { 
-            "rank": 8, 
-            "title": "Something to Talk About", 
-            "artist": "Bonnie Raitt" 
+            "rank": 8,
+            "title": "Something to Talk About",
+            "artist": "Bonnie Raitt",
+            "genre": "Pop, Rock, Blues",
+            "album": "Luck of the Draw",
+            "releaseDate": "1991-07-02"
          },
          { 
-            "rank": 9, 
-            "title": "Baby, Baby", 
-            "artist": "Amy Grant" 
+            "rank": 9,
+            "title": "Baby, Baby",
+            "artist": "Amy Grant",
+            "genre": "Pop, Christian Pop",
+            "album": "Heart in Motion",
+            "releaseDate": "1991-01-07"
          },
          { 
-            "rank": 10, 
-            "title": "The Humpty Dance", 
-            "artist": "Digital Underground" 
+            "rank": 10,
+            "title": "The Humpty Dance",
+            "artist": "Digital Underground",
+            "genre": "Hip Hop, Funk",
+            "album": "Sex Packets",
+            "releaseDate": "1990-03-13"
          }
       ],
       "1991": [
          { 
-            "rank": 1, 
-            "title": "Everything I Do (I Do It for You)", 
-            "artist": "Bryan Adams" 
+            "rank": 1,
+            "title": "Everything I Do (I Do It for You)",
+            "artist": "Bryan Adams",
+            "genre": "Rock, Pop Rock",
+            "album": "Robin Hood: Prince of Thieves (Soundtrack)",
+            "releaseDate": "1991-06-18"
          },
          { 
-            "rank": 2, 
-            "title": "I Wanna Dance with Somebody (Who Loves Me)", 
-            "artist": "Whitney Houston" 
+            "rank": 2,
+            "title": "I Wanna Dance with Somebody (Who Loves Me)",
+            "artist": "Whitney Houston",
+            "genre": "Pop, Dance-Pop, R&B",
+            "album": "Whitney",
+            "releaseDate": "1987-05-02"
          },
          { 
-            "rank": 3, 
-            "title": "Black or White", 
-            "artist": "Michael Jackson" 
+            "rank": 3,
+            "title": "Black or White",
+            "artist": "Michael Jackson",
+            "genre": "Pop, Rock",
+            "album": "Dangerous",
+            "releaseDate": "1991-11-13"
          },
          { 
-            "rank": 4, 
-            "title": "Gonna Make You Sweat (Everybody Dance Now)", 
-            "artist": "C+C Music Factory"
+            "rank": 4,
+            "title": "Gonna Make You Sweat (Everybody Dance Now)",
+            "artist": "C+C Music Factory",
+            "genre": "Dance, Hip Hop",
+            "album": "Gonna Make You Sweat",
+            "releaseDate": "1990-06-04"
          },
          { 
-            "rank": 5, 
-            "title": "More Than Words", 
-            "artist": "Extreme" 
+            "rank": 5,
+            "title": "More Than Words",
+            "artist": "Extreme",
+            "genre": "Rock, Acoustic",
+            "album": "Extreme II: Pornograffitti",
+            "releaseDate": "1990-07-24"
          },
          { 
-            "rank": 6, 
-            "title": "Smells Like Teen Spirit", 
-            "artist": "Nirvana" 
+            "rank": 6,
+            "title": "Smells Like Teen Spirit",
+            "artist": "Nirvana",
+            "genre": "Grunge, Alternative Rock",
+            "album": "Nevermind",
+            "releaseDate": "1991-09-10"
          },
          { 
-            "rank": 7, 
-            "title": "Rush Rush", 
-            "artist": "Paula Abdul" 
+            "rank": 7,
+            "title": "Rush Rush",
+            "artist": "Paula Abdul",
+            "genre": "Pop, R&B",
+            "album": "Spellbound",
+            "releaseDate": "1991-04-01"
          },
          { 
-            "rank": 8, 
-            "title": "I've Been Thinking About You", 
-            "artist": "Londonbeat" 
+            "rank": 8,
+            "title": "I've Been Thinking About You",
+            "artist": "Londonbeat",
+            "genre": "Pop, Dance",
+            "album": "Londonbeat",
+            "releaseDate": "1990-07-16"
          },
          { 
-            "rank": 9, 
-            "title": "Joyride", 
-            "artist": "Roxette" 
+            "rank": 9,
+            "title": "Joyride",
+            "artist": "Roxette",
+            "genre": "Pop, Rock",
+            "album": "Joyride",
+            "releaseDate": "1991-03-01"
          },
          { 
-            "rank": 10, 
-            "title": "Motownphilly", 
-            "artist": "Boyz II Men" 
+            "rank": 10,
+            "title": "Motownphilly",
+            "artist": "Boyz II Men",
+            "genre": "R&B, New Jack Swing",
+            "album": "Cooleyhighharmony",
+            "releaseDate": "1991-02-25"
          }
       ],
       "1990": [
          { 
-            "rank": 1, 
-            "title": "Hold On", 
-            "artist": "Wilson Phillips" 
+            "rank": 1,
+            "title": "Hold On",
+            "artist": "Wilson Phillips",
+            "genre": "Pop, Rock",
+            "album": "Wilson Phillips",
+            "releaseDate": "1990-03-20"
          },
          { 
-            "rank": 2, 
-            "title": "Nothing Compares 2 U", 
-            "artist": "Sinead O'Connor" 
+            "rank": 2,
+            "title": "Nothing Compares 2 U",
+            "artist": "Sinead O'Connor",
+            "genre": "Pop, Rock",
+            "album": "I Do Not Want What I Haven't Got",
+            "releaseDate": "1990-01-08"
          },
          { 
-            "rank": 3, 
-            "title": "Vogue", 
-            "artist": "Madonna" 
+            "rank": 3,
+            "title": "Vogue",
+            "artist": "Madonna",
+            "genre": "Pop, Dance",
+            "album": "I'm Breathless",
+            "releaseDate": "1990-03-27"
          },
          { 
-            "rank": 4, 
-            "title": "U Can't Touch This", 
-            "artist": "MC Hammer" 
+            "rank": 4,
+            "title": "U Can't Touch This",
+            "artist": "MC Hammer",
+            "genre": "Hip Hop, Rap",
+            "album": "Please Hammer, Don't Hurt 'Em",
+            "releaseDate": "1990-02-12"
          },
          { 
-            "rank": 5, 
-            "title": "Escapade", 
-            "artist": "Janet Jackson" 
+            "rank": 5,
+            "title": "Escapade",
+            "artist": "Janet Jackson",
+            "genre": "Pop, R&B",
+            "album": "Rhythm Nation 1814",
+            "releaseDate": "1990-01-15"
          },
          { 
-            "rank": 6, 
-            "title": "Vision of Love", 
-            "artist": "Mariah Carey" 
+            "rank": 6,
+            "title": "Vision of Love",
+            "artist": "Mariah Carey",
+            "genre": "Pop, R&B",
+            "album": "Mariah Carey",
+            "releaseDate": "1990-05-15"
          },
          { 
-            "rank": 7, 
-            "title": "It Must Have Been Love", 
-            "artist": "Roxette" 
+            "rank": 7,
+            "title": "It Must Have Been Love",
+            "artist": "Roxette",
+            "genre": "Pop, Soft Rock",
+            "album": "Look Sharp!",
+            "releaseDate": "1987-11-25"
          },
          { 
-            "rank": 8, 
-            "title": "Another Day in Paradise", 
-            "artist": "Phil Collins" 
+            "rank": 8,
+            "title": "Another Day in Paradise",
+            "artist": "Phil Collins",
+            "genre": "Pop, Soft Rock",
+            "album": "But Seriously",
+            "releaseDate": "1989-09-08"
          },
          { 
-            "rank": 9, 
-            "title": "Praying for Time", 
-            "artist": "George Michael" 
+            "rank": 9,
+            "title": "Praying for Time",
+            "artist": "George Michael",
+            "genre": "Pop, Soul",
+            "album": "Listen Without Prejudice Vol. 1",
+            "releaseDate": "1990-09-05"
          },
          { 
-            "rank": 10, 
-            "title": "Release Me", 
-            "artist": "Wilson Phillips" 
+            "rank": 10,
+            "title": "Release Me",
+            "artist": "Wilson Phillips",
+            "genre": "Pop, Rock",
+            "album": "Wilson Phillips",
+            "releaseDate": "1990-09-25"
          }
       ],
       "1989": [
          { 
-            "rank": 1, 
-            "title": "Look Away", 
-            "artist": "Chicago" 
+            "rank": 1,
+            "title": "Look Away",
+            "artist": "Chicago",
+            "genre": "Rock, Pop",
+            "album": "Chicago 19",
+            "releaseDate": "1988-01-25" 
          },
          { 
-            "rank": 2, 
-            "title": "Another Day in Paradise", 
-            "artist": "Phil Collins" 
+            "rank": 2,
+            "title": "Another Day in Paradise",
+            "artist": "Phil Collins",
+            "genre": "Pop, Rock",
+            "album": "…but Seriously",
+            "releaseDate": "1989-09-12"
          },
          { 
-            "rank": 3, 
-            "title": "My Prerogative", 
-            "artist": "Bobby Brown" 
+            "rank": 3,
+            "title": "My Prerogative",
+            "artist": "Bobby Brown",
+            "genre": "R&B, Pop",
+            "album": "Don't Be Cruel",
+            "releaseDate": "1988-09-07"
          },
          { 
-            "rank": 4, 
-            "title": "Like a Prayer", 
-            "artist": "Madonna" 
+            "rank": 4,
+            "title": "Like a Prayer",
+            "artist": "Madonna",
+            "genre": "Pop, Gospel",
+            "album": "Like a Prayer",
+            "releaseDate": "1989-03-21"
          },
          { 
-            "rank": 5, 
-            "title": "We Didn't Start the Fire", 
-            "artist": "Billy Joel" 
+            "rank": 5,
+            "title": "We Didn't Start the Fire",
+            "artist": "Billy Joel",
+            "genre": "Rock",
+            "album": "Storm Front",
+            "releaseDate": "1989-09-18"
          },
          { 
-            "rank": 6, 
-            "title": "Cold Hearted", 
-            "artist": "Paula Abdul" 
+            "rank": 6,
+            "title": "Cold Hearted",
+            "artist": "Paula Abdul",
+            "genre": "Pop, R&B",
+            "album": "Forever Your Girl",
+            "releaseDate": "1989-06-13"
          },
          { 
-            "rank": 7, 
-            "title": "If I Could Turn Back Time", 
-            "artist": "Cher" 
+            "rank": 7,
+            "title": "If I Could Turn Back Time",
+            "artist": "Cher",
+            "genre": "Pop, Rock",
+            "album": "Heart of Stone",
+            "releaseDate": "1989-08-01"
          },
          { 
-            "rank": 8, 
-            "title": "Don't Rush Me", 
-            "artist": "Taylor Dayne" 
+            "rank": 8,
+            "title": "Don't Rush Me",
+            "artist": "Taylor Dayne",
+            "genre": "Pop, Dance",
+            "album": "Can't Fight Fate",
+            "releaseDate": "1990-09-01"
          },
          { 
-            "rank": 9, 
-            "title": "Forever Your Girl", 
-            "artist": "Paula Abdul" 
+            "rank": 9,
+            "title": "Forever Your Girl",
+            "artist": "Paula Abdul",
+            "genre": "Pop, Dance",
+            "album": "Forever Your Girl",
+            "releaseDate": "1988-10-17"
          },
          { 
-            "rank": 10, 
-            "title": "Straight Up", 
-            "artist": "Paula Abdul" 
+            "rank": 10,
+            "title": "Straight Up",
+            "artist": "Paula Abdul",
+            "genre": "Pop, Dance",
+            "album": "Forever Your Girl",
+            "releaseDate": "1988-08-25"
          }
       ],
       "1988": [
          { 
-            "rank": 1, 
-            "title": "Need You Tonight", 
-            "artist": "INXS" 
+            "rank": 1,
+            "title": "Need You Tonight",
+            "artist": "INXS",
+            "genre": "Rock, New Wave",
+            "album": "Kick",
+            "releaseDate": "1987-10-05"
          },
          { 
-            "rank": 2, 
-            "title": "Don't Worry, Be Happy", 
-            "artist": "Bobby McFerrin" 
+            "rank": 2,
+            "title": "Don't Worry, Be Happy",
+            "artist": "Bobby McFerrin",
+            "genre": "Pop, Jazz",
+            "album": "Simple Pleasures",
+            "releaseDate": "1988-09-01"
          },
          { 
-            "rank": 3, 
-            "title": "Together Forever", 
-            "artist": "Rick Astley" 
+            "rank": 3,
+            "title": "Together Forever",
+            "artist": "Rick Astley",
+            "genre": "Pop, Dance-pop",
+            "album": "Whenever You Need Somebody",
+            "releaseDate": "1987-06-16" 
          },
          { 
-            "rank": 4, 
-            "title": "Sweet Child o' Mine", 
-            "artist": "Guns N' Roses" 
+            "rank": 4,
+            "title": "Sweet Child o' Mine",
+            "artist": "Guns N' Roses",
+            "genre": "Hard Rock, Glam Metal",
+            "album": "Appetite for Destruction",
+            "releaseDate": "1987-08-18" 
          },
          { 
-            "rank": 5, 
-            "title": "Man in the Mirror", 
-            "artist": "Michael Jackson" 
+            "rank": 5,
+            "title": "Man in the Mirror",
+            "artist": "Michael Jackson",
+            "genre": "Pop, Soul",
+            "album": "Bad",
+            "releaseDate": "1988-01-23"
          },
          { 
-            "rank": 6, 
-            "title": "Get Outta My Dreams, Get into My Car", 
-            "artist": "Billy Ocean" 
+            "rank": 6,
+            "title": "Get Outta My Dreams, Get into My Car",
+            "artist": "Billy Ocean",
+            "genre": "Pop, R&B",
+            "album": "Greatest Hits",
+            "releaseDate": "1988-05-01"
          },
          { 
-            "rank": 7, 
-            "title": "Don't Call Me Baby", 
-            "artist": "The Pussycat Dolls" 
+            "title": "Don't Call Me Baby",
+            "artist": "The Pussycat Dolls",
+            "genre": "Pop, R&B",
+            "album": "Pussycat Dolls",
+            "releaseDate": "2005-07-01"
          },
          { 
-            "rank": 8, 
-            "title": "I'll Always Love You", 
-            "artist": "Whitney Houston" 
+            "rank": 8,
+            "title": "I'll Always Love You",
+            "artist": "Whitney Houston",
+            "genre": "Pop, R&B, Soul",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "releaseDate": "1992-11-03"
          },
          { 
-            "rank": 9, 
-            "title": "One More Try", 
-            "artist": "George Michael" 
+            "rank": 9,
+            "title": "One More Try",
+            "artist": "George Michael",
+            "genre": "Pop, Soul",
+            "album": "Faith",
+            "releaseDate": "1988-05-23"
          },
          { 
-            "rank": 10, 
-            "title": "Faith", 
-            "artist": "George Michael" 
+            "rank": 10,
+            "title": "Faith",
+            "artist": "George Michael",
+            "genre": "Pop, Dance-pop, Rock",
+            "album": "Faith",
+            "releaseDate": "1987-10-30"
          }
       ],
       "1987": [
          { 
-            "rank": 1, 
-            "title": "Walk Like an Egyptian", 
-            "artist": "The Bangles" 
+            "rank": 1,
+            "title": "Walk Like an Egyptian",
+            "artist": "The Bangles",
+            "genre": "Pop, Rock",
+            "album": "Different Light",
+            "releaseDate": "1986-11-01"
          },
          { 
-            "rank": 2, 
-            "title": "Alone", 
-            "artist": "Heart" 
+            "rank": 2,
+            "title": "Alone",
+            "artist": "Heart",
+            "genre": "Rock, Pop Rock",
+            "album": "Bad Animals",
+            "releaseDate": "1987-06-01"
          },
          { 
-            "rank": 3, 
-            "title": "I Wanna Dance with Somebody (Who Loves Me)", 
-            "artist": "Whitney Houston" 
+            "rank": 3,
+            "title": "I Wanna Dance with Somebody (Who Loves Me)",
+            "artist": "Whitney Houston",
+            "genre": "Pop, Dance-Pop, R&B",
+            "album": "Whitney",
+            "releaseDate": "1987-05-02"
          },
          { 
-            "rank": 4, 
-            "title": "Livin' on a Prayer", 
-            "artist": "Bon Jovi" 
+            "rank": 4,
+            "title": "Livin' on a Prayer",
+            "artist": "Bon Jovi",
+            "genre": "Rock, Hard Rock",
+            "album": "Slippery When Wet",
+            "releaseDate": "1986-10-31"
          },
          { 
-            "rank": 5, 
-            "title": "With or Without You", 
-            "artist": "U2" 
+            "rank": 5,
+            "title": "With or Without You",
+            "artist": "U2",
+            "genre": "Rock, Alternative Rock",
+            "album": "The Joshua Tree",
+            "releaseDate": "1987-03-09"
          },
          { 
-            "rank": 6, 
-            "title": "I Still Haven't Found What I'm Looking For", 
-            "artist": "U2" 
+            "rank": 6,
+            "title": "I Still Haven't Found What I'm Looking For",
+            "artist": "U2",
+            "genre": "Rock, Alternative Rock",
+            "album": "The Joshua Tree",
+            "releaseDate": "1987-05-04"
          },
          { 
-            "rank": 7, 
-            "title": "La Bamba", 
-            "artist": "Los Lobos" 
+            "rank": 7,
+            "title": "La Bamba",
+            "artist": "Los Lobos",
+            "genre": "Rock, Latin Rock",
+            "album": "La Bamba: Original Motion Picture Soundtrack",
+            "releaseDate": "1987-06-28"
          },
          { 
-            "rank": 8, 
+            "rank": 8,
             "title": "Sweet Little Mystery",
-            "artist": "Wet Wet Wet" 
+            "artist": "Wet Wet Wet",
+            "genre": "Pop, Soft Rock",
+            "album": "Popped In, Souled Out",
+            "releaseDate": "1987-10-12" 
          },
          { 
-            "rank": 9, 
-            "title": "Here I Go Again", 
-            "artist": "Whitesnake" 
+            "rank": 9,
+            "title": "Here I Go Again",
+            "artist": "Whitesnake",
+            "genre": "Rock, Glam Metal",
+            "album": "Whitesnake",
+            "releaseDate": "1987-04-02"
          },
          { 
-            "rank": 10, 
+            "rank": 10,
             "title": "The Way It Is",
-            "artist": "Bruce Hornsby and the Range" 
+            "artist": "Bruce Hornsby and the Range",
+            "genre": "Pop Rock",
+            "album": "The Way It Is",
+            "releaseDate": "1986-08-13"
          }
       ],
       "1986": [
